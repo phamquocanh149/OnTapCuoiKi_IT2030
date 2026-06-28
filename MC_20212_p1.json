@@ -1,0 +1,198 @@
+[
+  {
+    "Ques": "Question 1: A presentation is a form of oral communication in which a person shares factual information with an audience that is?\nA. large\nB. small\nC. mixed\nD. specific",
+    "Ans": {
+      "A": "large",
+      "B": "small",
+      "C": "mixed",
+      "D": "specific"
+    },
+    "correct": "D",
+    "explanation": {
+      "question_vi": "Thuyết trình là một hình thức giao tiếp bằng lời nói, trong đó người nói chia sẻ thông tin thực tế với một nhóm khán giả như thế nào?",
+      "answers_vi": {
+        "A": "Đông người",
+        "B": "Ít người",
+        "C": "Hỗn hợp",
+        "D": "Cụ thể, xác định"
+      },
+      "reason": "Thuyết trình luôn hướng đến một nhóm đối tượng cụ thể (specific audience). Quy mô lớn hay nhỏ không phải là đặc điểm quan trọng."
+    }
+  },
+  {
+    "Ques": "Question 2: The three major elements of presentation do not include?\nA. visual aids\nB. an audience\nC. a presenter\nD. specific content",
+    "Ans": {
+      "A": "visual aids",
+      "B": "an audience",
+      "C": "a presenter",
+      "D": "specific content"
+    },
+    "correct": "A",
+    "explanation": {
+      "question_vi": "Ba thành phần chính của một bài thuyết trình KHÔNG bao gồm thành phần nào?",
+      "answers_vi": {
+        "A": "Phương tiện trực quan",
+        "B": "Khán giả",
+        "C": "Người thuyết trình",
+        "D": "Nội dung cụ thể"
+      },
+      "reason": "Ba yếu tố cốt lõi là người thuyết trình, nội dung và khán giả. Visual aids chỉ là công cụ hỗ trợ."
+    }
+  },
+  {
+    "Ques": "Question 3: To be able to give a good presentation, a full rehearsal is?\nA. necessary\nB. audience based\nC. optional\nD. useless",
+    "Ans": {
+      "A": "necessary",
+      "B": "audience based",
+      "C": "optional",
+      "D": "useless"
+    },
+    "correct": "A",
+    "explanation": {
+      "question_vi": "Để có thể thực hiện một bài thuyết trình tốt, việc tập dượt đầy đủ là gì?",
+      "answers_vi": {
+        "A": "Cần thiết",
+        "B": "Phụ thuộc vào khán giả",
+        "C": "Không bắt buộc",
+        "D": "Vô ích"
+      },
+      "reason": "Luyện tập trước giúp kiểm soát thời gian, nội dung và tăng sự tự tin khi trình bày."
+    }
+  },
+  {
+    "Ques": "Question 4: To make a presentation effective and impressive, you should use?\nA. passive sentences\nB. a simple and active form of sentences\nC. jargon\nD. complex sentences",
+    "Ans": {
+      "A": "passive sentences",
+      "B": "a simple and active form of sentences",
+      "C": "jargon",
+      "D": "complex sentences"
+    },
+    "correct": "B",
+    "explanation": {
+      "question_vi": "Để bài thuyết trình hiệu quả và ấn tượng, bạn nên sử dụng điều gì?",
+      "answers_vi": {
+        "A": "Câu bị động",
+        "B": "Câu đơn giản và chủ động",
+        "C": "Thuật ngữ chuyên môn",
+        "D": "Câu phức tạp"
+      },
+      "reason": "Câu ngắn gọn và chủ động giúp người nghe dễ hiểu và dễ theo dõi hơn."
+    }
+  },
+  {
+    "Ques": "Question 5: In presentation design, maximum time is given to the?\nA. introduction\nB. conclusion\nC. main body\nD. question-answer session",
+    "Ans": {
+      "A": "introduction",
+      "B": "conclusion",
+      "C": "main body",
+      "D": "question-answer session"
+    },
+    "correct": "C",
+    "explanation": {
+      "question_vi": "Trong thiết kế bài thuyết trình, phần nào nên được dành nhiều thời gian nhất?",
+      "answers_vi": {
+        "A": "Mở đầu",
+        "B": "Kết luận",
+        "C": "Phần thân bài",
+        "D": "Hỏi và đáp"
+      },
+      "reason": "Phần thân bài trình bày toàn bộ nội dung chính nên chiếm nhiều thời gian nhất."
+    }
+  },
+  {
+    "Ques": "Question 6: When giving a presentation in front of an audience you should do all of the following except for?\nA. Speak loud and clear\nB. Provide handouts if needed\nC. Dress professionally\nD. Look at your screen and not the audience",
+    "Ans": {
+      "A": "Speak loud and clear",
+      "B": "Provide handouts if needed",
+      "C": "Dress professionally",
+      "D": "Look at your screen and not the audience"
+    },
+    "correct": "D",
+    "explanation": {
+      "question_vi": "Khi thuyết trình trước khán giả, bạn nên làm tất cả những điều sau NGOẠI TRỪ?",
+      "answers_vi": {
+        "A": "Nói to và rõ ràng",
+        "B": "Phát tài liệu nếu cần",
+        "C": "Ăn mặc chuyên nghiệp",
+        "D": "Chỉ nhìn vào màn hình mà không nhìn khán giả"
+      },
+      "reason": "Người thuyết trình cần giao tiếp bằng mắt với khán giả thay vì chỉ nhìn màn hình."
+    }
+  },
+  {
+    "Ques": "Question 7: Where should you look while presenting?\nA. At the board -- that's where the audience is looking\nB. At your notes so you get the info correct\nC. In the eyes of random people in your audience\nD. At the chins of individuals in your audience",
+    "Ans": {
+      "A": "At the board -- that's where the audience is looking",
+      "B": "At your notes so you get the info correct",
+      "C": "In the eyes of random people in your audience",
+      "D": "At the chins of individuals in your audience"
+    },
+    "correct": "C",
+    "explanation": {
+      "question_vi": "Trong khi thuyết trình, bạn nên nhìn vào đâu?",
+      "answers_vi": {
+        "A": "Nhìn vào bảng vì khán giả cũng đang nhìn ở đó",
+        "B": "Nhìn vào ghi chú để đảm bảo thông tin chính xác",
+        "C": "Nhìn vào mắt ngẫu nhiên của các khán giả",
+        "D": "Nhìn vào cằm của từng khán giả"
+      },
+      "reason": "Giao tiếp bằng mắt với nhiều người trong khán phòng giúp tạo sự kết nối và tăng tính thuyết phục."
+    }
+  },
+  {
+    "Ques": "Question 8: Your presentation should consist of title slide, ________, body, and ________?\nA. objects and summary\nB. opinions and paragraphs\nC. objectives and summary\nD. options and pages",
+    "Ans": {
+      "A": "objects and summary",
+      "B": "opinions and paragraphs",
+      "C": "objectives and summary",
+      "D": "options and pages"
+    },
+    "correct": "C",
+    "explanation": {
+      "question_vi": "Một bài thuyết trình nên bao gồm trang tiêu đề, ________, phần thân và ________?",
+      "answers_vi": {
+        "A": "Đối tượng và tóm tắt",
+        "B": "Ý kiến và các đoạn văn",
+        "C": "Mục tiêu và tóm tắt",
+        "D": "Lựa chọn và các trang"
+      },
+      "reason": "Cấu trúc phổ biến của bài thuyết trình là: Title → Objectives → Body → Summary."
+    }
+  },
+  {
+    "Ques": "Question 9: Which of the following is not an easy to read font?\nA. Sego Script\nB. Times New Roman\nC. Calibri\nD. Arial",
+    "Ans": {
+      "A": "Sego Script",
+      "B": "Times New Roman",
+      "C": "Calibri",
+      "D": "Arial"
+    },
+    "correct": "A",
+    "explanation": {
+      "question_vi": "Phông chữ nào sau đây KHÔNG dễ đọc?",
+      "answers_vi": {
+        "A": "Sego Script",
+        "B": "Times New Roman",
+        "C": "Calibri",
+        "D": "Arial"
+      },
+      "reason": "Segoe Script là phông chữ viết tay, khó đọc trên slide. Các phông còn lại là phông tiêu chuẩn dùng trong thuyết trình."
+    }
+  },
+  {
+    "Ques": "Question 10: You should always use animations and sound in your presentation to keep your audience engaged?\nA. True\nB. False",
+    "Ans": {
+      "A": "True",
+      "B": "False"
+    },
+    "correct": "B",
+    "explanation": {
+      "question_vi": "Bạn nên luôn luôn sử dụng hiệu ứng động và âm thanh trong bài thuyết trình để thu hút khán giả?",
+      "answers_vi": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "reason": "Hiệu ứng và âm thanh chỉ nên dùng khi cần thiết. Lạm dụng sẽ gây mất tập trung và làm giảm chất lượng bài thuyết trình."
+    }
+  }
+]
