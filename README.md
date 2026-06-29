@@ -9,7 +9,7 @@
 ## ✨ Tính Năng Nổi Bật (Key Features)
 
 ### 1. Bộ câu hỏi cập nhật đầy đủ (109 câu)
-* Tích hợp sẵn bộ câu hỏi mới nhất từ file dữ liệu tổng hợp (`MC_tonghop.json`).
+* * Tích hợp sẵn bộ câu hỏi từ đề thi cuối kì các năm của học phần được tổng hợp trong file JSON (`MC_tonghop.json`).
 * Mỗi câu hỏi hỗ trợ song ngữ (Đề bài tiếng Anh kèm bản dịch nghĩa và giải thích chi tiết bằng tiếng Việt).
 
 ### 2. Hai chế độ học tập linh hoạt (Flexible Modes)
