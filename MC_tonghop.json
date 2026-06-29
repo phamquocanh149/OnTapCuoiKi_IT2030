@@ -1,0 +1,2178 @@
+[
+    {
+        "Ques": "Why should you keep text to a minimum on slides?",
+        "Ans": {
+            "A": "So the focus is on you as the speaker",
+            "B": "To make sure the audience can read everything you have to tell them",
+            "C": "So the pictures are easier to see",
+            "D": "To help make your presentation shorter"
+        },
+        "correct": "A",
+        "explanation": {
+            "question_vi": "Tại sao bạn nên giữ văn bản ở mức tối thiểu trên các slide?",
+            "answers_vi": {
+                "A": "Để sự tập trung hướng vào bạn với tư cách là người nói",
+                "B": "Để đảm bảo khán giả có thể đọc được mọi thứ bạn phải nói với họ",
+                "C": "Để hình ảnh dễ nhìn thấy hơn",
+                "D": "Để giúp bài thuyết trình của bạn ngắn hơn"
+            },
+            "reason": "Slide chỉ là công cụ hỗ trợ trực quan. Việc giảm thiểu chữ giúp khán giả tập trung lắng nghe lời bạn nói thay vì mải đọc chữ trên màn hình."
+        }
+    },
+    {
+        "Ques": "Which of the following is not a tip for preparation?",
+        "Ans": {
+            "A": "Practice as much as possible",
+            "B": "Be yourself",
+            "C": "Use verbal signposting",
+            "D": "Ask questions and invite participation"
+        },
+        "correct": "C",
+        "explanation": {
+            "question_vi": "Điều nào sau đây KHÔNG phải là một lời khuyên cho bước chuẩn bị?",
+            "answers_vi": {
+                "A": "Luyện tập càng nhiều càng tốt",
+                "B": "Hãy là chính mình",
+                "C": "Sử dụng các từ ngữ định hướng (chuyển ý)",
+                "D": "Đặt câu hỏi và mời gọi sự tham gia"
+            },
+            "reason": "Sử dụng các từ ngữ định hướng (verbal signposting) là kỹ thuật được thực hiện trực tiếp trong lúc đang thuyết trình để dẫn dắt người nghe, chứ không phải là một bước trong giai đoạn chuẩn bị (preparation)."
+        }
+    },
+    {
+        "Ques": "Which of the following is not a key point of voice technique?",
+        "Ans": {
+            "A": "Tempo",
+            "B": "Pitch",
+            "C": "Volume",
+            "D": "Frequency"
+        },
+        "correct": "D",
+        "explanation": {
+            "question_vi": "Điều nào sau đây KHÔNG phải là một điểm chính của kỹ thuật giọng nói?",
+            "answers_vi": {
+                "A": "Nhịp độ",
+                "B": "Cao độ",
+                "C": "Âm lượng",
+                "D": "Tần số"
+            },
+            "reason": "Kỹ thuật giọng nói trong thuyết trình thường bao gồm việc kiểm soát nhịp độ (tempo), cao độ (pitch) và âm lượng (volume). Tần số (frequency) là một thuật ngữ vật lý, không phải là tên một kỹ thuật luyện giọng."
+        }
+    },
+    {
+        "Ques": "The outline of a presentation is a:",
+        "Ans": {
+            "A": "List of requirements and purpose of the presentation",
+            "B": "List of major headings or topics to be covered in the presentation",
+            "C": "List of technologies that will be used to deliver the presentation",
+            "D": "List of external sources used in the presentation"
+        },
+        "correct": "B",
+        "explanation": {
+            "question_vi": "Dàn ý của một bài thuyết trình là:",
+            "answers_vi": {
+                "A": "Danh sách các yêu cầu và mục đích của bài thuyết trình",
+                "B": "Danh sách các tiêu đề hoặc chủ đề chính sẽ được đề cập trong bài thuyết trình",
+                "C": "Danh sách các công nghệ sẽ được sử dụng để thực hiện bài thuyết trình",
+                "D": "Danh sách các nguồn tham khảo bên ngoài được sử dụng trong bài thuyết trình"
+            },
+            "reason": "Dàn ý (outline) thể hiện cấu trúc tổng thể của bài thuyết trình, liệt kê các chủ đề hoặc tiêu đề chính sẽ được trình bày theo trình tự logic."
+        }
+    },
+    {
+        "Ques": "To contrast text on a presentation slide for better viewing, it is preferable to use",
+        "Ans": {
+            "A": "Dark text on a dark background",
+            "B": "Light text on a dark background",
+            "C": "Dark text on light background",
+            "D": "Light text on a light background"
+        },
+        "correct": "C",
+        "explanation": {
+            "question_vi": "Để tạo độ tương phản cho văn bản trên slide thuyết trình giúp dễ nhìn hơn, tốt nhất nên sử dụng:",
+            "answers_vi": {
+                "A": "Chữ tối màu trên nền tối màu",
+                "B": "Chữ sáng màu trên nền tối màu",
+                "C": "Chữ tối màu trên nền sáng màu",
+                "D": "Chữ sáng màu trên nền sáng màu"
+            },
+            "reason": "Nguyên tắc cơ bản trong thiết kế slide là đảm bảo độ tương phản cao giữa chữ và nền. Chữ tối màu trên nền sáng màu (như chữ đen trên nền trắng hoặc sáng) là lựa chọn phổ biến và mang lại độ nhận diện chữ tốt nhất trong hầu hết điều kiện ánh sáng."
+        }
+    },
+    {
+        "Ques": "For better readability, the number of bullet points on a slide should be:",
+        "Ans": {
+            "A": "7 to 10",
+            "B": "Less than 7",
+            "C": "Any number",
+            "D": "More than 7"
+        },
+        "correct": "B",
+        "explanation": {
+            "question_vi": "Để đảm bảo tính dễ đọc, số lượng gạch đầu dòng trên một slide nên là:",
+            "answers_vi": {
+                "A": "Từ 7 đến 10",
+                "B": "Ít hơn 7",
+                "C": "Bất kỳ số lượng nào",
+                "D": "Nhiều hơn 7"
+            },
+            "reason": "Theo quy tắc 6x6 hoặc 7x7 trong thiết kế slide thuyết trình, mỗi slide không nên vượt quá 6-7 gạch đầu dòng để tránh làm màn hình bị rối mắt và giúp khán giả dễ tiếp nhận thông tin."
+        }
+    },
+    {
+        "Ques": "When using content from external sources in presentation materials, it is necessary to include:",
+        "Ans": {
+            "A": "Citations and references",
+            "B": "Trademark symbol",
+            "C": "Acknowledgments",
+            "D": "Copyright disclaimer"
+        },
+        "correct": "A",
+        "explanation": {
+            "question_vi": "Khi sử dụng nội dung từ các nguồn bên ngoài trong tài liệu thuyết trình, cần phải bao gồm:",
+            "answers_vi": {
+                "A": "Trích dẫn và nguồn tham khảo",
+                "B": "Biểu tượng nhãn hiệu",
+                "C": "Lời cảm ơn",
+                "D": "Tuyên bố miễn trừ bản quyền"
+            },
+            "reason": "Để tuân thủ đạo đức học thuật và luật bản quyền, mọi thông tin, hình ảnh hoặc số liệu lấy từ nguồn bên ngoài đều phải được ghi rõ trích dẫn và tài liệu tham khảo (Citations and references)."
+        }
+    },
+    {
+        "Ques": "To prevent a graph or chart from showing a misleading trend on presentation materials, it is important to:",
+        "Ans": {
+            "A": "Use complete scales for axes instead of partial scales",
+            "B": "Use 3-D charts or graphs",
+            "C": "Use colors for graphs and charts",
+            "D": "Use stacked graphs or charts"
+        },
+        "correct": "A",
+        "explanation": {
+            "question_vi": "Để tránh biểu đồ hoặc đồ thị hiển thị xu hướng gây hiểu lầm trên tài liệu thuyết trình, điều quan trọng là phải:",
+            "answers_vi": {
+                "A": "Sử dụng thang đo đầy đủ cho các trục thay vì thang đo một phần",
+                "B": "Sử dụng biểu đồ hoặc đồ thị 3D",
+                "C": "Sử dụng màu sắc cho đồ thị và biểu đồ",
+                "D": "Sử dụng biểu đồ hoặc đồ thị chồng chất"
+            },
+            "reason": "Việc sử dụng thang đo bị cắt xén (partial scales) trên các trục có thể làm sai lệch cảm nhận về xu hướng của dữ liệu. Do đó, cần dùng thang đo đầy đủ (thường bắt đầu từ 0) để phản ánh trung thực kết quả."
+        }
+    },
+    {
+        "Ques": "An obnoxious driver flips you off, gives you the finger, shows you the middle digit. This is an example of",
+        "Ans": {
+            "A": "an illustrator",
+            "B": "a manipulator",
+            "C": "an emblem",
+            "D": "none of the above"
+        },
+        "correct": "C",
+        "explanation": {
+            "question_vi": "Một tài xế thô lỗ giơ ngón tay giữa về phía bạn. Đây là một ví dụ về:",
+            "answers_vi": {
+                "A": "Cử chỉ minh họa (illustrator)",
+                "B": "Cử chỉ thao túng / tự nhún (manipulator)",
+                "C": "Cử chỉ biểu trưng (emblem)",
+                "D": "Không có ý nào ở trên"
+            },
+            "reason": "Trong giao tiếp phi ngôn ngữ, 'emblem' (cử chỉ biểu trưng) là những hành vi hình thể có ý nghĩa tương đương với một từ hoặc cụm từ cụ thể trong một nền văn hóa nhất định mà không cần lời nói đi kèm."
+        }
+    },
+    {
+        "Ques": "Nonverbal and verbal communication are interconnected in which of the following ways?",
+        "Ans": {
+            "A": "Nonverbal cues can repeat verbal messages",
+            "B": "Nonverbal cues can substitute for verbal messages",
+            "C": "Nonverbal cues can contradict verbal messages",
+            "D": "All of the above"
+        },
+        "correct": "D",
+        "explanation": {
+            "question_vi": "Giao tiếp phi ngôn ngữ và ngôn ngữ có mối liên hệ với nhau theo những cách nào sau đây?",
+            "answers_vi": {
+                "A": "Tín hiệu phi ngôn ngữ có thể lặp lại thông điệp ngôn ngữ",
+                "B": "Tín hiệu phi ngôn ngữ có thể thay thế thông điệp ngôn ngữ",
+                "C": "Tín hiệu phi ngôn ngữ có thể mâu thuẫn với thông điệp ngôn ngữ",
+                "D": "Tất cả các ý trên"
+            },
+            "reason": "Giao tiếp phi ngôn ngữ có thể tương tác với lời nói theo nhiều cách: lặp lại, thay thế, bổ trợ, điều tiết hoặc mâu thuẫn. Do đó tất cả các phương án đều đúng."
+        }
+    },
+    {
+        "Ques": "Initially, a presentation is a form of?",
+        "Ans": {
+            "A": "Two-way communication",
+            "B": "Intrapersonal communication",
+            "C": "Group communication",
+            "D": "One-way communication"
+        },
+        "correct": "D",
+        "explanation": {
+            "question_vi": "Ban đầu, một bài thuyết trình là một hình thức của:",
+            "answers_vi": {
+                "A": "Giao tiếp hai chiều",
+                "B": "Giao tiếp nội tâm (cá nhân)",
+                "C": "Giao tiếp nhóm",
+                "D": "Giao tiếp một chiều"
+            },
+            "reason": "Trong giai đoạn trình bày ban đầu, thuyết trình mang tính chất của giao tiếp một chiều (one-way communication), nơi người nói truyền tải thông điệp đến khán giả trước khi chuyển sang phần tương tác hỏi đáp."
+        }
+    },
+    {
+        "Ques": "When giving a presentation in front of an audience you should do all of the following except for?",
+        "Ans": {
+            "A": "Speak loud and clear",
+            "B": "Provide handouts if needed",
+            "C": "Dress professionally",
+            "D": "Look at your screen and not the audience"
+        },
+        "correct": "D",
+        "explanation": {
+            "question_vi": "Khi thực hiện một bài thuyết trình trước khán giả, bạn nên làm tất cả những điều sau NGOẠI TRỪ:",
+            "answers_vi": {
+                "A": "Nói to và rõ ràng",
+                "B": "Cung cấp tài liệu phát tay nếu cần",
+                "C": "Ăn mặc chuyên nghiệp",
+                "D": "Nhìn vào màn hình và không nhìn khán giả"
+            },
+            "reason": "Giao tiếp bằng mắt với khán giả là yếu tố cốt lõi để duy trì sự kết nối. Việc chỉ nhìn vào màn hình và phớt lờ khán giả là một sai lầm nghiêm trọng."
+        }
+    },
+    {
+        "Ques": "To whom should a presentation be aimed?",
+        "Ans": {
+            "A": "The highest authority in the room, regardless of where they are",
+            "B": "The entire audience",
+            "C": "The people in the closest rows",
+            "D": "Your best friend in the room"
+        },
+        "correct": "B",
+        "explanation": {
+            "question_vi": "Một bài thuyết trình nên hướng đến đối tượng nào?",
+            "answers_vi": {
+                "A": "Người có thẩm quyền cao nhất trong phòng, bất kể họ ở đâu",
+                "B": "Toàn bộ khán giả",
+                "C": "Những người ngồi ở hàng ghế gần nhất",
+                "D": "Người bạn thân nhất của bạn trong phòng"
+            },
+            "reason": "Bài thuyết trình cần được thiết kế và truyền tải để kết nối với toàn bộ khán giả trong phòng, không phải chỉ riêng một cá nhân hay một khu vực nhất định."
+        }
+    },
+    {
+        "Ques": "Where should you look while presenting?",
+        "Ans": {
+            "A": "At the board - that's where the audience is looking",
+            "B": "At your notes so you get the info correct",
+            "C": "In the eyes of random people in your audience",
+            "D": "At the chins of individuals in your audience"
+        },
+        "correct": "C",
+        "explanation": {
+            "question_vi": "Bạn nên nhìn vào đâu khi đang thuyết trình?",
+            "answers_vi": {
+                "A": "Nhìn vào bảng - đó là nơi khán giả đang nhìn",
+                "B": "Nhìn vào ghi chú để đảm bảo thông tin chính xác",
+                "C": "Nhìn vào mắt của những người ngẫu nhiên trong khán giả",
+                "D": "Nhìn vào cằm của những cá nhân trong khán giả"
+            },
+            "reason": "Việc nhìn vào mắt các khán giả khác nhau một cách tự nhiên (eye contact) giúp tạo sự gắn kết, tự tin và thu hút sự chú ý của người nghe."
+        }
+    },
+    {
+        "Ques": "What audience is the least information needed?",
+        "Ans": {
+            "A": "Low tech audience",
+            "B": "Lay audience (An audience that does not have any special knowledge of the issue under discussion)",
+            "C": "High-tech audience",
+            "D": "All of above"
+        },
+        "correct": "C",
+        "explanation": {
+            "question_vi": "Nhóm khán giả nào cần ít thông tin giải thích nhất?",
+            "answers_vi": {
+                "A": "Khán giả ít hiểu công nghệ",
+                "B": "Khán giả phổ thông (Khán giả không có kiến thức đặc biệt về vấn đề đang thảo luận)",
+                "C": "Khán giả công nghệ cao",
+                "D": "Tất cả các nhóm trên"
+            },
+            "reason": "Khán giả công nghệ cao (High-tech audience) đã có sẵn kiến thức nền tảng và chuyên sâu về lĩnh vực, do đó không cần giải thích các khái niệm cơ bản hay thông tin nền."
+        }
+    },
+    {
+        "Ques": "The order of development of information in the body of the report is done according to the?",
+        "Ans": {
+            "A": "Choice of the writer",
+            "B": "Logical sequence of events",
+            "C": "Collection of data",
+            "D": "Order in which events occurred"
+        },
+        "correct": "B",
+        "explanation": {
+            "question_vi": "Trình tự phát triển thông tin trong phần thân của báo cáo được thực hiện theo:",
+            "answers_vi": {
+                "A": "Sự lựa chọn của người viết",
+                "B": "Trình tự logic của các sự kiện / vấn đề",
+                "C": "Quá trình thu thập dữ liệu",
+                "D": "Thứ tự thời gian xảy ra các sự kiện"
+            },
+            "reason": "Phần thân của báo cáo kỹ thuật cần được sắp xếp theo một trình tự logic (Logical sequence) rõ ràng để người đọc dễ dàng theo dõi lập luận và kết quả nghiên cứu."
+        }
+    },
+    {
+        "Ques": "What is the purpose of the conclusion in a research report?",
+        "Ans": {
+            "A": "It just a summary what the article already said",
+            "B": "It summarizes the key findings in relation to the research questions",
+            "C": "It contains a useful review of the relevant literature",
+            "D": "It outlines the methodological procedures that were employed"
+        },
+        "correct": "B",
+        "explanation": {
+            "question_vi": "Mục đích của phần kết luận trong một báo cáo nghiên cứu là gì?",
+            "answers_vi": {
+                "A": "Nó chỉ là tóm tắt những gì bài viết đã nói",
+                "B": "Nó tóm tắt các phát hiện chính có liên quan đến các câu hỏi nghiên cứu",
+                "C": "Nó chứa một phần tổng quan hữu ích về các tài liệu liên quan",
+                "D": "Nó phác thảo các quy trình phương pháp luận đã được sử dụng"
+            },
+            "reason": "Phần kết luận không chỉ lặp lại đơn thuần mà nhấn mạnh và tổng kết các kết quả/phát hiện quan trọng nhất để trả lời cho các câu hỏi nghiên cứu đặt ra ban đầu."
+        }
+    },
+    {
+        "Ques": "Correct the incorrect statement: X is similar in Y?",
+        "Ans": {
+            "A": "X is similar as Y",
+            "B": "X is similar for Y",
+            "C": "X is similar to Y",
+            "D": "X is similar with Y"
+        },
+        "correct": "C",
+        "explanation": {
+            "question_vi": "Sửa lại câu sai sau: X is similar in Y?",
+            "answers_vi": {
+                "A": "X is similar as Y",
+                "B": "X is similar for Y",
+                "C": "X is similar to Y",
+                "D": "X is similar with Y"
+            },
+            "reason": "Trong ngữ pháp tiếng Anh chuẩn, tính từ 'similar' luôn đi kèm với giới từ 'to' (similar to: tương tự với)."
+        }
+    },
+    {
+        "Ques": "Which question is not relevant to an experiment mentioned in a technical report?",
+        "Ans": {
+            "A": "What outcome do you expect?",
+            "B": "Will successful results confirm an effective sponsorship?",
+            "C": "What resources should be measured?",
+            "D": "What are appropriate sources of test data?"
+        },
+        "correct": "B",
+        "explanation": {
+            "question_vi": "Câu hỏi nào KHÔNG liên quan đến một thí nghiệm được đề cập trong báo cáo kỹ thuật?",
+            "answers_vi": {
+                "A": "Bạn mong đợi kết quả nào?",
+                "B": "Kết quả thành công có xác nhận một sự tài trợ hiệu quả không?",
+                "C": "Những nguồn lực nào nên được đo lường?",
+                "D": "Nguồn dữ liệu kiểm thử nào là phù hợp?"
+            },
+            "reason": "Thí nghiệm kỹ thuật tập trung vào khía cạnh khoa học và chuyên môn (kỳ vọng, đo lường, dữ liệu). Các vấn đề về tài trợ (sponsorship) thuộc khía cạnh quản lý/tài chính, không liên quan đến nội dung kỹ thuật của thí nghiệm."
+        }
+    },
+    {
+        "Ques": "Which of the following sentences uses Parallel structures?",
+        "Ans": {
+            "A": "Since D contains all temporal constrains given in the domain, it can be used to determine when P becomes unsafe",
+            "B": "X solves the problems of traditional clustering algorithms. Neither outliers nor missing values affect the clustering quality.",
+            "C": "The task is not only easy to solve but it can also be solved efficiently",
+            "D": "The more complex the model is, the better it describes the training data"
+        },
+        "correct": "B",
+        "explanation": {
+            "question_vi": "Câu nào sau đây sử dụng cấu trúc song song (Parallel structure)?",
+            "answers_vi": {
+                "A": "Vì D chứa tất cả các ràng buộc thời gian trong miền, nó có thể được dùng để xác định khi nào P trở nên không an toàn",
+                "B": "X giải quyết các vấn đề của thuật toán phân cụm truyền thống. Cả giá trị ngoại lai và giá trị bị thiếu đều không ảnh hưởng đến chất lượng phân cụm.",
+                "C": "Nhiệm vụ không chỉ dễ giải quyết mà còn có thể được giải quyết một cách hiệu quả",
+                "D": "Mô hình càng phức tạp thì càng mô tả tốt dữ liệu huấn luyện"
+            },
+            "reason": "Cấu trúc song song đòi hỏi các thành phần được nối phải có cùng cấu trúc ngữ pháp. Trong câu B, cấu trúc tương hỗ 'Neither [outliers] nor [missing values]' kết nối hai cụm danh từ đóng vai trò chủ ngữ một cách hoàn hảo."
+        }
+    },
+    {
+        "Ques": "First step engrossed in writing instruction, regarded as?",
+        "Ans": {
+            "A": "organization of steps",
+            "B": "clarifying the audience",
+            "C": "reviewing instruction criteria",
+            "D": "detail analysis"
+        },
+        "correct": "B",
+        "explanation": {
+            "question_vi": "Bước đầu tiên khi tập trung viết tài liệu hướng dẫn được xem là gì?",
+            "answers_vi": {
+                "A": "Tổ chức các bước",
+                "B": "Xác định rõ đối tượng độc giả (khán giả)",
+                "C": "Xem xét các tiêu chí hướng dẫn",
+                "D": "Phân tích chi tiết"
+            },
+            "reason": "Nguyên tắc cơ bản trong viết tài liệu kỹ thuật là phải hiểu rõ người đọc (Clarifying the audience). Việc xác định đúng đối tượng giúp lựa chọn ngôn ngữ và mức độ chi tiết phù hợp cho bài hướng dẫn."
+        }
+    },
+    {
+        "Ques": "Each figure within a report should have a title and a number?",
+        "Ans": {
+            "A": "Under the figure",
+            "B": "Above the figure",
+            "C": "Inside the figure",
+            "D": "In page footer"
+        },
+        "correct": "A",
+        "explanation": {
+            "question_vi": "Mỗi hình trong báo cáo nên có tiêu đề và số thứ tự ở đâu?",
+            "answers_vi": {
+                "A": "Bên dưới hình",
+                "B": "Bên trên hình",
+                "C": "Bên trong hình",
+                "D": "Ở chân trang"
+            },
+            "reason": "Theo quy ước trình bày báo cáo chuẩn, chú thích và tiêu đề (caption) của hình ảnh (figure) luôn được đặt bên dưới hình, ngược lại với bảng biểu (table) đặt ở bên trên."
+        }
+    },
+    {
+        "Ques": "Which of these must be avoided in a technical report?",
+        "Ans": {
+            "A": "Facts",
+            "B": "Logical conclusion",
+            "C": "Objective evaluation",
+            "D": "Subjective evaluation"
+        },
+        "correct": "D",
+        "explanation": {
+            "question_vi": "Điều nào sau đây cần phải tránh trong một báo cáo kỹ thuật?",
+            "answers_vi": {
+                "A": "Sự kiện / dữ liệu thực tế",
+                "B": "Kết luận logic",
+                "C": "Đánh giá khách quan",
+                "D": "Đánh giá chủ quan"
+            },
+            "reason": "Báo cáo kỹ thuật đòi hỏi tính khoa học, chính xác và khách quan. Đánh giá chủ quan (Subjective evaluation) dựa trên cảm xúc hoặc định kiến cá nhân phải tuyệt đối tránh."
+        }
+    },
+    {
+        "Ques": "Which of these tells us what the report is about?",
+        "Ans": {
+            "A": "Abstract",
+            "B": "Summary",
+            "C": "Acknowledgements",
+            "D": "Table of contents"
+        },
+        "correct": "A",
+        "explanation": {
+            "question_vi": "Phần nào cho biết báo cáo nói về điều gì?",
+            "answers_vi": {
+                "A": "Tóm tắt (Abstract)",
+                "B": "Tổng kết (Summary)",
+                "C": "Lời cảm ơn",
+                "D": "Mục lục"
+            },
+            "reason": "Phần Abstract cung cấp cái nhìn tổng quan ngắn gọn nhất về chủ đề, mục tiêu và phạm vi nghiên cứu, giúp người đọc ngay lập tức biết báo cáo nói về vấn đề gì."
+        }
+    },
+    {
+        "Ques": "Which of the following parts gives the substance of the report?",
+        "Ans": {
+            "A": "Abstract",
+            "B": "Summary",
+            "C": "Preface",
+            "D": "Table of contents"
+        },
+        "correct": "B",
+        "explanation": {
+            "question_vi": "Phần nào sau đây cung cấp nội dung thực chất (tóm lược nội dung cốt lõi) của báo cáo?",
+            "answers_vi": {
+                "A": "Tóm tắt (Abstract)",
+                "B": "Tổng kết (Summary)",
+                "C": "Lời nói đầu (Preface)",
+                "D": "Mục lục"
+            },
+            "reason": "Nếu Abstract chỉ giới thiệu báo cáo nói về chủ đề gì, thì Summary (hay Executive Summary) tóm lược cô đọng toàn bộ nội dung thực chất, kết quả và kiến nghị chính của báo cáo."
+        }
+    },
+    {
+        "Ques": "An abstract is _______ of the original report?",
+        "Ans": {
+            "A": "2-5 percent",
+            "B": "5-10 percent",
+            "C": "6-12 percent",
+            "D": "7-13 percent"
+        },
+        "correct": "A",
+        "explanation": {
+            "question_vi": "Phần tóm tắt (Abstract) thường chiếm bao nhiêu phần trăm so với báo cáo gốc?",
+            "answers_vi": {
+                "A": "2-5%",
+                "B": "5-10%",
+                "C": "6-12%",
+                "D": "7-13%"
+            },
+            "reason": "Abstract là phần cô đọng nhất, chuẩn mực thường chỉ chiếm khoảng 2 đến 5 phần trăm độ dài của tài liệu gốc."
+        }
+    },
+    {
+        "Ques": "Which of these is not a part of the main text?",
+        "Ans": {
+            "A": "Introduction",
+            "B": "Conclusion",
+            "C": "Complaint",
+            "D": "Recommendation"
+        },
+        "correct": "C",
+        "explanation": {
+            "question_vi": "Phần nào sau đây KHÔNG phải là một phần của nội dung chính (main text) trong báo cáo?",
+            "answers_vi": {
+                "A": "Mở đầu (Introduction)",
+                "B": "Kết luận (Conclusion)",
+                "C": "Lời phàn nàn / khiếu nại (Complaint)",
+                "D": "Kiến nghị / đề xuất (Recommendation)"
+            },
+            "reason": "Nội dung chính của báo cáo thường bao gồm Mở đầu, Thân bài, Kết luận và Kiến nghị. Lời phàn nàn (Complaint) không thuộc cấu trúc của một báo cáo kỹ thuật."
+        }
+    },
+    {
+        "Ques": "Which is not basis for a technical report?",
+        "Ans": {
+            "A": "Facts",
+            "B": "Tests",
+            "C": "Personal opinions",
+            "D": "Experiments"
+        },
+        "correct": "C",
+        "explanation": {
+            "question_vi": "Điều nào KHÔNG phải là cơ sở của một báo cáo kỹ thuật?",
+            "answers_vi": {
+                "A": "Sự kiện / thực tế",
+                "B": "Kiểm thử",
+                "C": "Ý kiến cá nhân",
+                "D": "Thí nghiệm"
+            },
+            "reason": "Báo cáo kỹ thuật phải được xây dựng dựa trên sự kiện thực tế, kiểm thử và thực nghiệm khoa học, tuyệt đối không dựa trên cảm tính hay ý kiến cá nhân."
+        }
+    },
+    {
+        "Ques": "We, us and our are examples of?",
+        "Ans": {
+            "A": "Contractions",
+            "B": "Pronoun usage",
+            "C": "Name usage",
+            "D": "Noun"
+        },
+        "correct": "B",
+        "explanation": {
+            "question_vi": "'We', 'us' và 'our' là các ví dụ về:",
+            "answers_vi": {
+                "A": "Từ viết tắt / rút gọn (Contractions)",
+                "B": "Cách sử dụng đại từ (Pronoun usage)",
+                "C": "Cách sử dụng tên (Name usage)",
+                "D": "Danh từ (Noun)"
+            },
+            "reason": "'We', 'us', 'our' là các đại từ nhân xưng số nhiều ngôi thứ nhất. Đây là ví dụ về cách sử dụng đại từ (Pronoun usage) trong văn phong kỹ thuật và thuyết trình."
+        }
+    },
+    {
+        "Ques": "A presentation is a form of oral communication in which a person shares factual information with an audience that is?\nA. large\nB. small\nC. mixed\nD. specific",
+        "Ans": {
+            "A": "large",
+            "B": "small",
+            "C": "mixed",
+            "D": "specific"
+        },
+        "correct": "D",
+        "explanation": {
+            "question_vi": "Thuyết trình là một hình thức giao tiếp bằng lời nói, trong đó người nói chia sẻ thông tin thực tế với một nhóm khán giả như thế nào?",
+            "answers_vi": {
+                "A": "Đông người",
+                "B": "Ít người",
+                "C": "Hỗn hợp",
+                "D": "Cụ thể, xác định"
+            },
+            "reason": "Thuyết trình luôn hướng đến một nhóm đối tượng cụ thể (specific audience). Quy mô lớn hay nhỏ không phải là đặc điểm quan trọng."
+        }
+    },
+    {
+        "Ques": "The three major elements of presentation do not include?\nA. visual aids\nB. an audience\nC. a presenter\nD. specific content",
+        "Ans": {
+            "A": "visual aids",
+            "B": "an audience",
+            "C": "a presenter",
+            "D": "specific content"
+        },
+        "correct": "A",
+        "explanation": {
+            "question_vi": "Ba thành phần chính của một bài thuyết trình KHÔNG bao gồm thành phần nào?",
+            "answers_vi": {
+                "A": "Phương tiện trực quan",
+                "B": "Khán giả",
+                "C": "Người thuyết trình",
+                "D": "Nội dung cụ thể"
+            },
+            "reason": "Ba yếu tố cốt lõi là người thuyết trình, nội dung và khán giả. Visual aids chỉ là công cụ hỗ trợ."
+        }
+    },
+    {
+        "Ques": "To be able to give a good presentation, a full rehearsal is?\nA. necessary\nB. audience based\nC. optional\nD. useless",
+        "Ans": {
+            "A": "necessary",
+            "B": "audience based",
+            "C": "optional",
+            "D": "useless"
+        },
+        "correct": "A",
+        "explanation": {
+            "question_vi": "Để có thể thực hiện một bài thuyết trình tốt, việc tập dượt đầy đủ là gì?",
+            "answers_vi": {
+                "A": "Cần thiết",
+                "B": "Phụ thuộc vào khán giả",
+                "C": "Không bắt buộc",
+                "D": "Vô ích"
+            },
+            "reason": "Luyện tập trước giúp kiểm soát thời gian, nội dung và tăng sự tự tin khi trình bày."
+        }
+    },
+    {
+        "Ques": "To make a presentation effective and impressive, you should use?\nA. passive sentences\nB. a simple and active form of sentences\nC. jargon\nD. complex sentences",
+        "Ans": {
+            "A": "passive sentences",
+            "B": "a simple and active form of sentences",
+            "C": "jargon",
+            "D": "complex sentences"
+        },
+        "correct": "B",
+        "explanation": {
+            "question_vi": "Để bài thuyết trình hiệu quả và ấn tượng, bạn nên sử dụng điều gì?",
+            "answers_vi": {
+                "A": "Câu bị động",
+                "B": "Câu đơn giản và chủ động",
+                "C": "Thuật ngữ chuyên môn",
+                "D": "Câu phức tạp"
+            },
+            "reason": "Câu ngắn gọn và chủ động giúp người nghe dễ hiểu và dễ theo dõi hơn."
+        }
+    },
+    {
+        "Ques": "In presentation design, maximum time is given to the?\nA. introduction\nB. conclusion\nC. main body\nD. question-answer session",
+        "Ans": {
+            "A": "introduction",
+            "B": "conclusion",
+            "C": "main body",
+            "D": "question-answer session"
+        },
+        "correct": "C",
+        "explanation": {
+            "question_vi": "Trong thiết kế bài thuyết trình, phần nào nên được dành nhiều thời gian nhất?",
+            "answers_vi": {
+                "A": "Mở đầu",
+                "B": "Kết luận",
+                "C": "Phần thân bài",
+                "D": "Hỏi và đáp"
+            },
+            "reason": "Phần thân bài trình bày toàn bộ nội dung chính nên chiếm nhiều thời gian nhất."
+        }
+    },
+    {
+        "Ques": "Your presentation should consist of title slide, ________, body, and ________?\nA. objects and summary\nB. opinions and paragraphs\nC. objectives and summary\nD. options and pages",
+        "Ans": {
+            "A": "objects and summary",
+            "B": "opinions and paragraphs",
+            "C": "objectives and summary",
+            "D": "options and pages"
+        },
+        "correct": "C",
+        "explanation": {
+            "question_vi": "Một bài thuyết trình nên bao gồm trang tiêu đề, ________, phần thân và ________?",
+            "answers_vi": {
+                "A": "Đối tượng và tóm tắt",
+                "B": "Ý kiến và các đoạn văn",
+                "C": "Mục tiêu và tóm tắt",
+                "D": "Lựa chọn và các trang"
+            },
+            "reason": "Cấu trúc phổ biến của bài thuyết trình là: Title → Objectives → Body → Summary."
+        }
+    },
+    {
+        "Ques": "Which of the following is not an easy to read font?\nA. Sego Script\nB. Times New Roman\nC. Calibri\nD. Arial",
+        "Ans": {
+            "A": "Sego Script",
+            "B": "Times New Roman",
+            "C": "Calibri",
+            "D": "Arial"
+        },
+        "correct": "A",
+        "explanation": {
+            "question_vi": "Phông chữ nào sau đây KHÔNG dễ đọc?",
+            "answers_vi": {
+                "A": "Sego Script",
+                "B": "Times New Roman",
+                "C": "Calibri",
+                "D": "Arial"
+            },
+            "reason": "Segoe Script là phông chữ viết tay, khó đọc trên slide. Các phông còn lại là phông tiêu chuẩn dùng trong thuyết trình."
+        }
+    },
+    {
+        "Ques": "You should always use animations and sound in your presentation to keep your audience engaged?\nA. True\nB. False",
+        "Ans": {
+            "A": "True",
+            "B": "False"
+        },
+        "correct": "B",
+        "explanation": {
+            "question_vi": "Bạn nên luôn luôn sử dụng hiệu ứng động và âm thanh trong bài thuyết trình để thu hút khán giả?",
+            "answers_vi": {
+                "A": "Đúng",
+                "B": "Sai"
+            },
+            "reason": "Hiệu ứng và âm thanh chỉ nên dùng khi cần thiết. Lạm dụng sẽ gây mất tập trung và làm giảm chất lượng bài thuyết trình."
+        }
+    },
+    {
+        "Ques": "You should use ________ and graphs as visuals for data?\nA. Spreadsheets\nB. Tables\nC. Charts\nD. Words",
+        "Ans": {
+            "A": "Spreadsheets",
+            "B": "Tables",
+            "C": "Charts",
+            "D": "Words"
+        },
+        "correct": "C",
+        "explanation": {
+            "question_vi": "Bạn nên sử dụng ________ và biểu đồ (graphs) làm hình ảnh trực quan để trình bày dữ liệu?",
+            "answers_vi": {
+                "A": "Bảng tính",
+                "B": "Bảng",
+                "C": "Biểu đồ",
+                "D": "Từ ngữ"
+            },
+            "reason": "Charts và graphs là hai cách trực quan nhất để trình bày dữ liệu. Chúng giúp người xem dễ hiểu và dễ so sánh hơn so với bảng hoặc văn bản. (need to check)"
+        }
+    },
+    {
+        "Ques": "When presenting, your poise should be?\nA. nervous and angry\nB. confident and relaxed\nC. annoyed\nD. shy",
+        "Ans": {
+            "A": "nervous and angry",
+            "B": "confident and relaxed",
+            "C": "annoyed",
+            "D": "shy"
+        },
+        "correct": "B",
+        "explanation": {
+            "question_vi": "Khi thuyết trình, phong thái của bạn nên như thế nào?",
+            "answers_vi": {
+                "A": "Lo lắng và tức giận",
+                "B": "Tự tin và thoải mái",
+                "C": "Khó chịu",
+                "D": "Rụt rè"
+            },
+            "reason": "Một người thuyết trình tốt cần giữ phong thái tự tin và thư giãn để tạo thiện cảm và truyền tải thông điệp hiệu quả."
+        }
+    },
+    {
+        "Ques": "It is generally NOT a good practice to deliver a presentation by?\nA. Paraphrasing what is on the presentation materials\nB. Mentioning the highlights of what is on the screen\nC. Reading the entire presentation line by line\nD. Elaborating each bullet point on the presentation materials",
+        "Ans": {
+            "A": "Paraphrasing what is on the presentation materials",
+            "B": "Mentioning the highlights of what is on the screen",
+            "C": "Reading the entire presentation line by line",
+            "D": "Elaborating each bullet point on the presentation materials"
+        },
+        "correct": "C",
+        "explanation": {
+            "question_vi": "Nhìn chung, cách nào sau đây KHÔNG phải là cách tốt để trình bày một bài thuyết trình?",
+            "answers_vi": {
+                "A": "Diễn đạt lại nội dung trên slide bằng lời của mình",
+                "B": "Đề cập đến các ý chính trên màn hình",
+                "C": "Đọc toàn bộ nội dung trên slide từng dòng một",
+                "D": "Giải thích chi tiết từng gạch đầu dòng trên slide"
+            },
+            "reason": "Việc đọc nguyên văn slide khiến bài thuyết trình nhàm chán. Người thuyết trình nên diễn giải và mở rộng ý thay vì chỉ đọc."
+        }
+    },
+    {
+        "Ques": "When an audience member without a microphone in a large audience asks a question during or after your presentation, it is important for the presenter to?\nA. Repeat the question for the benefit of others in the audience who might not have heard it\nB. Ask others in the audience to shout the question\nC. Respond to the question immediately\nD. Ask the audience member to come to the front of the room and ask the question",
+        "Ans": {
+            "A": "Repeat the question for the benefit of others in the audience who might not have heard it",
+            "B": "Ask others in the audience to shout the question",
+            "C": "Respond to the question immediately",
+            "D": "Ask the audience member to come to the front of the room and ask the question"
+        },
+        "correct": "A",
+        "explanation": {
+            "question_vi": "Khi một khán giả không có micro đặt câu hỏi trong hội trường lớn, người thuyết trình nên làm gì?",
+            "answers_vi": {
+                "A": "Lặp lại câu hỏi để mọi người đều nghe được",
+                "B": "Yêu cầu người khác hét lại câu hỏi",
+                "C": "Trả lời ngay lập tức",
+                "D": "Mời người hỏi lên phía trước để hỏi"
+            },
+            "reason": "Lặp lại câu hỏi giúp toàn bộ khán giả biết nội dung câu hỏi trước khi nghe câu trả lời."
+        }
+    },
+    {
+        "Ques": "In selecting presentation technologies, it is important to select technologies that are?\nA. Available and can be used at the presentation location\nB. The state-of-the-art in presentation technologies\nC. Freely available to download and use\nD. Commonly used by presenters",
+        "Ans": {
+            "A": "Available and can be used at the presentation location",
+            "B": "The state-of-the-art in presentation technologies",
+            "C": "Freely available to download and use",
+            "D": "Commonly used by presenters"
+        },
+        "correct": "A",
+        "explanation": {
+            "question_vi": "Khi lựa chọn công nghệ để thuyết trình, điều quan trọng nhất là gì?",
+            "answers_vi": {
+                "A": "Có sẵn và sử dụng được tại địa điểm thuyết trình",
+                "B": "Là công nghệ hiện đại nhất",
+                "C": "Miễn phí để tải và sử dụng",
+                "D": "Được nhiều người sử dụng"
+            },
+            "reason": "Thiết bị và phần mềm phải tương thích với nơi thuyết trình. Công nghệ hiện đại nhưng không sử dụng được thì không có giá trị."
+        }
+    },
+    {
+        "Ques": "The outline of a presentation should include?\nA. Acknowledgments\nB. A beginning, middle and an end of the presentation\nC. Possible questions from the audience\nD. References",
+        "Ans": {
+            "A": "Acknowledgments",
+            "B": "A beginning, middle and an end of the presentation",
+            "C": "Possible questions from the audience",
+            "D": "References"
+        },
+        "correct": "B",
+        "explanation": {
+            "question_vi": "Dàn ý của một bài thuyết trình nên bao gồm những gì?",
+            "answers_vi": {
+                "A": "Lời cảm ơn",
+                "B": "Mở đầu, thân bài và kết thúc",
+                "C": "Các câu hỏi có thể được khán giả đặt ra",
+                "D": "Tài liệu tham khảo"
+            },
+            "reason": "Một bài thuyết trình hiệu quả luôn có cấu trúc rõ ràng gồm mở đầu, nội dung chính và kết luận."
+        }
+    },
+    {
+        "Ques": "Proper eye contact with the audience when delivering a presentation involves?\nA. Looking above the audience's heads\nB. Staring at each audience member\nC. Making a sweeping glance of the audience from the left to the right and front to back of the room\nD. Making a sweeping glance of the audience from left to right in the front row of the room",
+        "Ans": {
+            "A": "Looking above the audience's heads",
+            "B": "Staring at each audience member",
+            "C": "Making a sweeping glance of the audience from the left to the right and front to back of the room",
+            "D": "Making a sweeping glance of the audience from left to right in the front row of the room"
+        },
+        "correct": "C",
+        "explanation": {
+            "question_vi": "Giao tiếp bằng mắt đúng cách khi thuyết trình là gì?",
+            "answers_vi": {
+                "A": "Nhìn phía trên đầu khán giả",
+                "B": "Nhìn chằm chằm vào từng người",
+                "C": "Quét ánh mắt khắp khán phòng từ trái sang phải và từ trước ra sau",
+                "D": "Chỉ quét ánh mắt ở hàng ghế đầu"
+            },
+            "reason": "Người thuyết trình nên bao quát toàn bộ khán giả để tạo cảm giác kết nối với tất cả mọi người."
+        }
+    },
+    {
+        "Ques": "When delivering a presentation as part of a team it is important to?\nA. Make sure all the team members' names are listed in order on all the presentation materials\nB. Coordinate your portion with others in the team so you can present first\nC. Make sure all the team members have the same duration to present their portion\nD. Coordinate your portion with others in the team and not duplicate their presentations",
+        "Ans": {
+            "A": "Make sure all the team members' names are listed in order on all the presentation materials",
+            "B": "Coordinate your portion with others in the team so you can present first",
+            "C": "Make sure all the team members have the same duration to present their portion",
+            "D": "Coordinate your portion with others in the team and not duplicate their presentations"
+        },
+        "correct": "D",
+        "explanation": {
+            "question_vi": "Khi thuyết trình theo nhóm, điều quan trọng nhất là gì?",
+            "answers_vi": {
+                "A": "Đảm bảo tên các thành viên đều được ghi trên slide",
+                "B": "Phối hợp để bạn được trình bày đầu tiên",
+                "C": "Đảm bảo mọi người có thời gian trình bày bằng nhau",
+                "D": "Phối hợp nội dung với các thành viên khác để tránh trùng lặp"
+            },
+            "reason": "Các thành viên cần thống nhất nội dung để bài thuyết trình liền mạch và không lặp lại thông tin."
+        }
+    },
+    {
+        "Ques": "Important considerations in rehearsing a presentation are?\nA. Food and beverages\nB. Attire\nC. Timing and pace\nD. Audience",
+        "Ans": {
+            "A": "Food and beverages",
+            "B": "Attire",
+            "C": "Timing and pace",
+            "D": "Audience"
+        },
+        "correct": "C",
+        "explanation": {
+            "question_vi": "Khi luyện tập thuyết trình, điều gì là quan trọng nhất cần chú ý?",
+            "answers_vi": {
+                "A": "Đồ ăn và đồ uống",
+                "B": "Trang phục",
+                "C": "Thời gian và tốc độ trình bày",
+                "D": "Khán giả"
+            },
+            "reason": "Luyện tập giúp kiểm soát thời lượng và tốc độ nói để bài thuyết trình diễn ra đúng kế hoạch."
+        }
+    },
+    {
+        "Ques": "Avoiding plagiarism is known to be law of?\nA. confidentiality\nB. copyright\nC. courtesy\nD. avoiding copy and paste",
+        "Ans": {
+            "A": "confidentiality",
+            "B": "copyright",
+            "C": "courtesy",
+            "D": "avoiding copy and paste"
+        },
+        "correct": "B",
+        "explanation": {
+            "question_vi": "Việc tránh đạo văn liên quan đến luật nào?",
+            "answers_vi": {
+                "A": "Luật bảo mật",
+                "B": "Luật bản quyền",
+                "C": "Phép lịch sự",
+                "D": "Tránh sao chép và dán"
+            },
+            "reason": "Đạo văn là hành vi sử dụng tác phẩm hoặc ý tưởng của người khác mà không ghi nguồn, liên quan trực tiếp đến luật bản quyền (Copyright)."
+        }
+    },
+    {
+        "Ques": "Proof reading is helpful in?",
+        "Ans": {
+            "A": "avoiding misunderstanding",
+            "B": "reading the document for understanding",
+            "C": "making it availlable to public",
+            "D": "all of above"
+        },
+        "correct": "A",
+        "explanation": {
+            "question_vi": "Hiệu đính (proofreading) có ích trong việc gì?",
+            "answers_vi": {
+                "A": "Tránh hiểu lầm",
+                "B": "Đọc tài liệu để hiểu",
+                "C": "Làm tài liệu sẵn sàng cho công chúng",
+                "D": "Tất cả các ý trên"
+            },
+            "reason": "Proofreading chủ yếu giúp phát hiện lỗi chính tả, ngữ pháp và diễn đạt để tránh người đọc hiểu sai nội dung."
+        }
+    },
+    {
+        "Ques": "The possible order of points for describing the steps for doing something in sequence is known as?",
+        "Ans": {
+            "A": "Topical order",
+            "B": "Causal order",
+            "C": "Spatial order",
+            "D": "Chronological order"
+        },
+        "correct": "D",
+        "explanation": {
+            "question_vi": "Thứ tự dùng để mô tả các bước thực hiện một việc theo trình tự được gọi là gì?",
+            "answers_vi": {
+                "A": "Thứ tự theo chủ đề",
+                "B": "Thứ tự nhân quả",
+                "C": "Thứ tự không gian",
+                "D": "Thứ tự thời gian"
+            },
+            "reason": "Khi mô tả các bước theo trình tự trước–sau, ta sử dụng chronological order (thứ tự thời gian)."
+        }
+    },
+    {
+        "Ques": "To select the content of your presentation, you should know?\nA. your purpose\nB. the time limit\nC. the audience’s needs\nD. the available material",
+        "Ans": {
+            "A": "your purpose",
+            "B": "the time limit",
+            "C": "the audience’s needs",
+            "D": "the available material"
+        },
+        "correct": "C",
+        "explanation": {
+            "question_vi": "Để lựa chọn nội dung cho bài thuyết trình của mình, bạn nên biết điều gì?",
+            "answers_vi": {
+                "A": "Mục đích của bạn",
+                "B": "Giới hạn thời gian",
+                "C": "Nhu cầu của khán giả",
+                "D": "Tài liệu sẵn có"
+            },
+            "reason": "Việc hiểu rõ nhu cầu của khán giả (audience's needs) là yếu tố quan trọng nhất để chọn lọc và thiết kế nội dung phù hợp, giúp bài thuyết trình đạt hiệu quả cao."
+        }
+    },
+    {
+        "Ques": "What is NOT a good strategy if you are unable to answer a question from an audience member during your presentation?\nA. Acknowledge you don’t know the answer and say the question was irrelevant to the topic of the presentation\nB. Ask others in the audience if they could answer the question\nC. Ask the audience member to see you after the presentation so you can understand the question better and answer it\nD. Acknowledge you don’t know the answer and would think and get back to the questioner",
+        "Ans": {
+            "A": "Acknowledge you don’t know the answer and say the question was irrelevant to the topic of the presentation",
+            "B": "Ask others in the audience if they could answer the question",
+            "C": "Ask the audience member to see you after the presentation so you can understand the question better and answer it",
+            "D": "Acknowledge you don’t know the answer and would think and get back to the questioner"
+        },
+        "correct": "A",
+        "explanation": {
+            "question_vi": "Điều nào KHÔNG phải là một chiến lược tốt nếu bạn không thể trả lời câu hỏi của một khán giả trong khi thuyết trình?",
+            "answers_vi": {
+                "A": "Thừa nhận rằng bạn không biết câu trả lời và nói rằng câu hỏi không liên quan đến chủ đề của bài thuyết trình",
+                "B": "Hỏi những người khác trong khán phòng xem họ có thể trả lời câu hỏi đó không",
+                "C": "Hẹn gặp khán giả đó sau bài thuyết trình để hiểu rõ câu hỏi hơn và trả lời sau",
+                "D": "Thừa nhận rằng bạn không biết câu trả lời, hứa sẽ suy nghĩ và phản hồi lại người hỏi sau"
+            },
+            "reason": "Tuyên bố câu hỏi của khán giả không liên quan đến chủ đề là hành vi thô lỗ và thiếu chuyên nghiệp. Người thuyết trình nên thừa nhận trung thực và đề xuất giải pháp tìm hiểu thêm."
+        }
+    },
+    {
+        "Ques": "To deal with shoulder hunch and hand clench, which may occur just before you are due to appear on stage, you are advised NOT to:\nA. Consciously relax your shoulders\nB. Straighten your back\nC. Push your chest out and hollow your back\nD. Stand as tall as you can or sit with your spine straightened",
+        "Ans": {
+            "A": "Consciously relax your shoulders",
+            "B": "Straighten your back",
+            "C": "Push your chest out and hollow your back",
+            "D": "Stand as tall as you can or sit with your spine straightened"
+        },
+        "correct": "C",
+        "explanation": {
+            "question_vi": "Để giải quyết tình trạng khom vai và nắm chặt tay trước khi lên sân khấu, bạn được khuyên KHÔNG nên làm gì?",
+            "answers_vi": {
+                "A": "Ý thức thả lỏng vai của bạn",
+                "B": "Thẳng lưng",
+                "C": "Ưỡn ngực ra và võng lưng lại",
+                "D": "Đứng cao hết mức có thể hoặc ngồi thẳng cột sống"
+            },
+            "reason": "Ưỡn ngực và võng lưng quá mức (hyper-extension) làm căng các cơ ngực và gây khó khăn cho việc hít thở sâu, làm tăng thêm sự lo lắng, hồi hộp."
+        }
+    },
+    {
+        "Ques": "When trying to handle your nerves, remember NOT to do this:\nA. Slow down\nB. Breathe calmly\nC. Look all around the audience before you start to speak\nD. Rush into the seminar room and give a quick look at the audience",
+        "Ans": {
+            "A": "Slow down",
+            "B": "Breathe calmly",
+            "C": "Look all around the audience before you start to speak",
+            "D": "Rush into the seminar room and give a quick look at the audience"
+        },
+        "correct": "D",
+        "explanation": {
+            "question_vi": "Khi cố gắng kiểm soát sự lo lắng của mình, hãy nhớ KHÔNG làm điều nào sau đây?",
+            "answers_vi": {
+                "A": "Nói chậm lại",
+                "B": "Thở đều, bình tĩnh",
+                "C": "Nhìn bao quát toàn bộ khán giả trước khi bắt đầu nói",
+                "D": "Vội vàng chạy vào phòng hội thảo và liếc nhìn thật nhanh khán giả"
+            },
+            "reason": "Chạy vội vào phòng và chỉ liếc nhanh khán giả sẽ làm tăng lượng adrenaline trong cơ thể, khiến bạn cảm thấy lo lắng và mất tập trung hơn."
+        }
+    },
+    {
+        "Ques": "What should we do with the shoulders when making a presentation?\nA. Hunch our shoulder\nB. Slump the shoulders\nC. Relax and straighten the shoulders\nD. Fold arms and shoulders",
+        "Ans": {
+            "A": "Hunch our shoulder",
+            "B": "Slump the shoulders",
+            "C": "Relax and straighten the shoulders",
+            "D": "Fold arms and shoulders"
+        },
+        "correct": "C",
+        "explanation": {
+            "question_vi": "Chúng ta nên làm gì với vai của mình khi thuyết trình?",
+            "answers_vi": {
+                "A": "Còng vai lại",
+                "B": "Thõng vai xuống",
+                "C": "Thả lỏng và giữ thẳng vai",
+                "D": "Khoanh tay và khép vai"
+            },
+            "reason": "Thả lỏng và giữ thẳng vai giúp tạo ra phong thái tự tin, cởi mở đồng thời hỗ trợ hít thở sâu và phát âm tốt hơn."
+        }
+    },
+    {
+        "Ques": "While giving your presentation, how might you improve the way you are speaking?\nA. By varying your pitch and volume to emphasize certain parts of the speech\nB. By talking quickly so people feel pumped\nC. Using jargon\nD. Directing your voice primarily at those sat near the front",
+        "Ans": {
+            "A": "By varying your pitch and volume to emphasize certain parts of the speech",
+            "B": "By talking quickly so people feel pumped",
+            "C": "Using jargon",
+            "D": "Directing your voice primarily at those sat near the front"
+        },
+        "correct": "A",
+        "explanation": {
+            "question_vi": "Trong khi thuyết trình, làm thế nào để bạn cải thiện cách nói của mình?",
+            "answers_vi": {
+                "A": "Thay đổi cao độ và âm lượng để nhấn mạnh các phần nhất định của bài phát biểu",
+                "B": "Nói thật nhanh để mọi người cảm thấy phấn khích",
+                "C": "Sử dụng biệt ngữ chuyên ngành",
+                "D": "Chỉ hướng giọng nói của bạn vào những người ngồi gần phía trước"
+            },
+            "reason": "Điều chỉnh cao độ và âm lượng giúp bài thuyết trình sinh động, tránh nhàm chán và giúp khán giả dễ dàng nhận biết được các thông tin quan trọng."
+        }
+    },
+    {
+        "Ques": "When we want to stress important words we can do it in many ways EXCEPT for the following:\nA. We can say them louder\nB. We can pause before the important words\nC. We can make gesture\nD. We can say them very quickly",
+        "Ans": {
+            "A": "We can say them louder",
+            "B": "We can pause before the important words",
+            "C": "We can make gesture",
+            "D": "We can say them very quickly"
+        },
+        "correct": "D",
+        "explanation": {
+            "question_vi": "Khi muốn nhấn mạnh các từ quan trọng, chúng ta có thể làm bằng nhiều cách NGOẠI TRỪ cách nào sau đây?",
+            "answers_vi": {
+                "A": "Nói chúng to hơn",
+                "B": "Tạm dừng một nhịp trước khi nói từ quan trọng",
+                "C": "Sử dụng cử chỉ điệu bộ",
+                "D": "Nói chúng thật nhanh"
+            },
+            "reason": "Nói từ quan trọng thật nhanh sẽ làm người nghe khó bắt được từ đó, giảm tính hiệu quả của việc nhấn mạnh."
+        }
+    },
+    {
+        "Ques": "In a scientific paper, what part is the answer to the research question?\nA. Introduction\nB. Method\nC. Result\nD. Discussion",
+        "Ans": {
+            "A": "Introduction",
+            "B": "Method",
+            "C": "Result",
+            "D": "Discussion"
+        },
+        "correct": "C",
+        "explanation": {
+            "question_vi": "Trong một bài báo khoa học, phần nào cung cấp câu trả lời trực tiếp cho câu hỏi nghiên cứu?",
+            "answers_vi": {
+                "A": "Mở đầu (Introduction)",
+                "B": "Phương pháp (Method)",
+                "C": "Kết quả (Result)",
+                "D": "Thảo luận (Discussion)"
+            },
+            "reason": "Phần Kết quả (Result) chứa các số liệu, dữ liệu thực nghiệm và phát hiện cụ thể, đó chính là lời giải/câu trả lời khách quan cho câu hỏi nghiên cứu được đặt ra."
+        }
+    },
+    {
+        "Ques": "Which of the following concepts that refers to the “grammatical” aspects of writing and is focused on the degree to which sentences (or even different parts of a sentence) are connected so that the flow of ideas is easy to follow?\nA. Organization\nB. Coherence\nC. Cohesion\nD. Writing Conventions",
+        "Ans": {
+            "A": "Organization",
+            "B": "Coherence",
+            "C": "Cohesion",
+            "D": "Writing Conventions"
+        },
+        "correct": "C",
+        "explanation": {
+            "question_vi": "Khái niệm nào sau đây đề cập đến các khía cạnh 'ngữ pháp' của văn bản và tập trung vào mức độ liên kết giữa các câu (hoặc các phần của câu) để mạch ý tưởng dễ theo dõi?",
+            "answers_vi": {
+                "A": "Sự tổ chức (Organization)",
+                "B": "Sự chặt chẽ về mặt nội dung (Coherence)",
+                "C": "Sự liên kết về mặt từ vựng và ngữ pháp (Cohesion)",
+                "D": "Quy ước viết (Writing Conventions)"
+            },
+            "reason": "Cohesion (sự liên kết) là khía cạnh ngữ pháp liên quan đến các công cụ liên kết từ vựng và ngữ pháp (từ nối, đại từ, liên từ) giúp gắn kết các phần của câu và các câu lại với nhau."
+        }
+    },
+    {
+        "Ques": "Technical writing usually conveys technical information, instructions, or explanations to a specific audience. Which of the following is not among the characteristics of technical writing?\nA. Clarity\nB. Accuracy\nC. Structure\nD. Imaginativeness",
+        "Ans": {
+            "A": "Clarity",
+            "B": "Accuracy",
+            "C": "Structure",
+            "D": "Imaginativeness"
+        },
+        "correct": "D",
+        "explanation": {
+            "question_vi": "Viết học thuật/kỹ thuật thường truyền tải thông tin kỹ thuật, hướng dẫn hoặc giải thích tới một đối tượng khán giả cụ thể. Điều nào sau đây KHÔNG thuộc đặc điểm của viết kỹ thuật?",
+            "answers_vi": {
+                "A": "Sự rõ ràng (Clarity)",
+                "B": "Sự chính xác (Accuracy)",
+                "C": "Cấu trúc rõ ràng (Structure)",
+                "D": "Trí tưởng tượng/Tính hư cấu (Imaginativeness)"
+            },
+            "reason": "Viết kỹ thuật yêu cầu tính chính xác, thực tế, rõ ràng và có cấu trúc để hướng dẫn/giải thích cụ thể, không cần sự bay bổng hoặc trí tưởng tượng văn học nghệ thuật."
+        }
+    },
+    {
+        "Ques": "What kinds of errors in the sentence:\n“When Jonathan finally found his dog he was so happy”?\nA. Verb agreement errors\nB. Lack of parallel structure\nC. Miss comma after an introductory element\nD. None of the options",
+        "Ans": {
+            "A": "Verb agreement errors",
+            "B": "Lack of parallel structure",
+            "C": "Miss comma after an introductory element",
+            "D": "None of the options"
+        },
+        "correct": "C",
+        "explanation": {
+            "question_vi": "Lỗi gì xuất hiện trong câu: 'When Jonathan finally found his dog he was so happy'?",
+            "answers_vi": {
+                "A": "Lỗi hòa hợp chủ vị",
+                "B": "Thiếu cấu trúc song song",
+                "C": "Thiếu dấu phẩy sau trạng ngữ/mệnh đề trạng ngữ mở đầu",
+                "D": "Không có lỗi nào"
+            },
+            "reason": "Mệnh đề trạng ngữ 'When Jonathan finally found his dog' đóng vai trò là thành phần mở đầu câu, do đó bắt buộc phải có dấu phẩy ngăn cách trước mệnh đề chính."
+        }
+    },
+    {
+        "Ques": "Which of the following is NOT a reason why proofreading is a writer's final step in document preparation?\nA. Proofreading is the responsibility of the manager, not the writer\nB. Proofreading detects easily correctable sentence-level errors\nC. Proofreading improves the effectiveness of an engaging and informative document\nD. Basic errors distract the reader",
+        "Ans": {
+            "A": "Proofreading is the responsibility of the manager, not the writer",
+            "B": "Proofreading detects easily correctable sentence-level errors",
+            "C": "Proofreading improves the effectiveness of an engaging and informative document",
+            "D": "Basic errors distract the reader"
+        },
+        "correct": "A",
+        "explanation": {
+            "question_vi": "Điều nào sau đây KHÔNG phải là lý do tại sao hiệu đính (proofreading) là bước cuối cùng của người viết khi chuẩn bị tài liệu?",
+            "answers_vi": {
+                "A": "Hiệu đính là trách nhiệm của người quản lý chứ không phải của người viết",
+                "B": "Hiệu đính giúp phát hiện các lỗi cấp câu dễ dàng sửa chữa",
+                "C": "Hiệu đính nâng cao hiệu quả của một tài liệu hấp dẫn và nhiều thông tin",
+                "D": "Các lỗi cơ bản làm người đọc mất tập trung"
+            },
+            "reason": "Người viết luôn chịu trách nhiệm cuối cùng cho độ chính xác của tài liệu do chính mình tạo ra. Việc hiệu đính không phải là nghĩa vụ dành riêng cho người quản lý."
+        }
+    },
+    {
+        "Ques": "In your research, you shared the contact details of some of your participants without their prior approval, Which rule are you breaking?\nA. Protecting Anonymity and Confidentiality\nB. Obtaining Consent Form\nC. Avoiding Deceptive Practices\nD. None of the options",
+        "Ans": {
+            "A": "Protecting Anonymity and Confidentiality",
+            "B": "Obtaining Consent Form",
+            "C": "Avoiding Deceptive Practices",
+            "D": "None of the options"
+        },
+        "correct": "A",
+        "explanation": {
+            "question_vi": "Trong nghiên cứu của bạn, bạn đã chia sẻ chi tiết liên hệ của một số người tham gia mà không có sự đồng ý trước của họ. Bạn đang vi phạm nguyên tắc đạo đức nghiên cứu nào?",
+            "answers_vi": {
+                "A": "Bảo vệ tính ẩn danh và bảo mật thông tin",
+                "B": "Thu thập biểu mẫu đồng ý",
+                "C": "Tránh các hành vi lừa dối",
+                "D": "Không có phương án nào đúng"
+            },
+            "reason": "Tiết lộ thông tin liên lạc cá nhân của đối tượng khảo sát mà không được sự cho phép trước của họ đã xâm phạm nguyên tắc bảo mật và quyền ẩn danh của người tham gia nghiên cứu."
+        }
+    },
+    {
+        "Ques": "What should you do in the literature review?\nA. Always read the papers in the literature review deeply\nB. Look over it quickly to determine whether a paper is relevant\nC. Read the papers in the literature review carelessly\nD. All of the options",
+        "Ans": {
+            "A": "Always read the papers in the literature review deeply",
+            "B": "Look over it quickly to determine whether a paper is relevant",
+            "C": "Read the papers in the literature review carelessly",
+            "D": "All of the options"
+        },
+        "correct": "B",
+        "explanation": {
+            "question_vi": "Bạn nên làm gì khi tiến hành tổng quan tài liệu (literature review)?",
+            "answers_vi": {
+                "A": "Luôn đọc rất kỹ tất cả các tài liệu",
+                "B": "Đọc lướt nhanh để xác định xem tài liệu đó có liên quan không",
+                "C": "Đọc các tài liệu một cách cẩu thả",
+                "D": "Tất cả các phương án trên"
+            },
+            "reason": "Vì số lượng tài liệu tham khảo ban đầu cực kỳ lớn, việc đọc lướt nhanh tiêu đề, tóm tắt và kết luận giúp bạn nhanh chóng sàng lọc những tài liệu thực sự phù hợp trước khi đi sâu nghiên cứu."
+        }
+    },
+    {
+        "Ques": "What can you do to find the research papers?\nA. Explore the Web using obvious search keywords\nB. Searching on digital libraries such as Wiley, ACM and so on\nC. Investigate the references mentioned in promising research papers\nD. All above statements",
+        "Ans": {
+            "A": "Explore the Web using obvious search keywords",
+            "B": "Searching on digital libraries such as Wiley, ACM and so on",
+            "C": "Investigate the references mentioned in promising research papers",
+            "D": "All above statements"
+        },
+        "correct": "D",
+        "explanation": {
+            "question_vi": "Bạn có thể làm gì để tìm kiếm các bài báo nghiên cứu?",
+            "answers_vi": {
+                "A": "Tìm kiếm trên web bằng cách sử dụng các từ khóa rõ ràng",
+                "B": "Tìm kiếm trên các thư viện số như Wiley, ACM, v.v.",
+                "C": "Lọc từ danh mục tham khảo của những bài báo nghiên cứu tiềm năng",
+                "D": "Tất cả các phương án trên"
+            },
+            "reason": "Cả ba cách trên (tìm kiếm từ khóa, thư viện số và truy ngược tài liệu tham khảo) đều là phương pháp tiêu chuẩn để tìm tài liệu nghiên cứu hiệu quả."
+        }
+    },
+    {
+        "Ques": "How to read a scientific journal article effectively?\nA. Start with the introduction\nB. Read the introduction first\nC. Start with the abstract\nD. Read the discussion first",
+        "Ans": {
+            "A": "Start with the introduction",
+            "B": "Read the introduction first",
+            "C": "Start with the abstract",
+            "D": "Read the discussion first"
+        },
+        "correct": "C",
+        "explanation": {
+            "question_vi": "Làm thế nào để đọc một bài báo khoa học một cách hiệu quả?",
+            "answers_vi": {
+                "A": "Bắt đầu bằng phần mở đầu",
+                "B": "Đọc phần mở đầu trước",
+                "C": "Bắt đầu bằng phần tóm tắt (abstract)",
+                "D": "Đọc phần thảo luận trước"
+            },
+            "reason": "Bắt đầu với phần tóm tắt (Abstract) giúp bạn nhanh chóng nắm bắt bức tranh toàn cảnh của nghiên cứu để xác định mức độ phù hợp và độ tin cậy của bài báo."
+        }
+    },
+    {
+        "Ques": "What is the purpose of the evaluation of the research papers?\nA. To use these assessments from reviewers to decide whether the paper should be accepted\nB. To understand key concepts, terminologies, theories, discoveries, and debates\nC. To evaluate the research topic of researchers\nD. None of above statements",
+        "Ans": {
+            "A": "To use these assessments from reviewers to decide whether the paper should be accepted",
+            "B": "To understand key concepts, terminologies, theories, discoveries, and debates",
+            "C": "To evaluate the research topic of researchers",
+            "D": "None of above statements"
+        },
+        "correct": "A",
+        "explanation": {
+            "question_vi": "Mục đích của việc đánh giá phản biện các bài báo nghiên cứu là gì?",
+            "answers_vi": {
+                "A": "Sử dụng những đánh giá từ phản biện để quyết định chấp nhận hay từ chối đăng bài báo đó",
+                "B": "Để hiểu các khái niệm, thuật ngữ, lý thuyết, phát hiện mới và tranh luận",
+                "C": "Để đánh giá chủ đề nghiên cứu của các nhà khoa học",
+                "D": "Không có phương án nào ở trên đúng"
+            },
+            "reason": "Quy trình bình duyệt (peer review) nhằm đánh giá độ tin cậy và giá trị đóng góp của nghiên cứu để giúp ban biên tập quyết định có xuất bản bài báo đó hay không."
+        }
+    },
+    {
+        "Ques": "Smallest sections of a technical reports included?\nA. introduction\nB. discussion\nC. abstract\nD. All of above",
+        "Ans": {
+            "A": "introduction",
+            "B": "discussion",
+            "C": "abstract",
+            "D": "All of above"
+        },
+        "correct": "D",
+        "explanation": {
+            "question_vi": "Các phần nhỏ hơn cấu thành một báo cáo kỹ thuật bao gồm?",
+            "answers_vi": {
+                "A": "Phần mở đầu (introduction)",
+                "B": "Phần thảo luận (discussion)",
+                "C": "Phần tóm tắt (abstract)",
+                "D": "Tất cả các phần trên"
+            },
+            "reason": "Trong cấu trúc báo cáo kỹ thuật, các phần như abstract, introduction, discussion đều được phân loại là các phần nhỏ, ngắn phụ trợ so với phần thân bài chính của báo cáo."
+        }
+    },
+    {
+        "Ques": "The appendixes are parts of?\nA. Front matter\nB. Main text\nC. Glossary\nD. Back matter",
+        "Ans": {
+            "A": "Front matter",
+            "B": "Main text",
+            "C": "Glossary",
+            "D": "Back matter"
+        },
+        "correct": "D",
+        "explanation": {
+            "question_vi": "Phần phụ lục (appendixes) là một bộ phận của phần nào?",
+            "answers_vi": {
+                "A": "Phần mở đầu (Front matter)",
+                "B": "Phần nội dung chính (Main text)",
+                "C": "Bảng thuật ngữ (Glossary)",
+                "D": "Phần cuối tài liệu (Back matter)"
+            },
+            "reason": "Phụ lục chứa các tài liệu bổ trợ đặt ở cuối cùng của báo cáo kỹ thuật, do đó nó thuộc về phần Back matter."
+        }
+    },
+    {
+        "Ques": "Sincerely, is an example of a...?\nA. Closing Line\nB. Signature Line\nC. Complimentary Closing\nD. Complimentary Line",
+        "Ans": {
+            "A": "Closing Line",
+            "B": "Signature Line",
+            "C": "Complimentary Closing",
+            "D": "Complimentary Line"
+        },
+        "correct": "C",
+        "explanation": {
+            "question_vi": "Từ 'Sincerely,' là một ví dụ của thành phần nào?",
+            "answers_vi": {
+                "A": "Dòng kết luận",
+                "B": "Dòng chữ ký",
+                "C": "Chào kết thúc lịch thiệp (Complimentary Closing)",
+                "D": "Dòng chào hỏi xã giao"
+            },
+            "reason": "'Sincerely' là từ chào trang trọng kết thúc thư tín (Complimentary Closing) phổ biến nhất trước phần chữ ký."
+        }
+    },
+    {
+        "Ques": "What are the true statements about résumés and CV?\nA. CV contains a lot of information about your accomplishments\nB. Résumé is long than CV\nC. CV is just a career biography\nD. None of the statements",
+        "Ans": {
+            "A": "CV contains a lot of information about your accomplishments",
+            "B": "Résumé is long than CV",
+            "C": "CV is just a career biography",
+            "D": "None of the statements"
+        },
+        "correct": "A",
+        "explanation": {
+            "question_vi": "Nhận định nào sau đây là đúng về résumé và CV?",
+            "answers_vi": {
+                "A": "CV chứa nhiều thông tin chi tiết về các thành tựu của bạn",
+                "B": "Résumé dài hơn CV",
+                "C": "CV chỉ đơn thuần là tiểu sử sự nghiệp tóm tắt",
+                "D": "Không có nhận định nào đúng"
+            },
+            "reason": "CV (Curriculum Vitae) là bản mô tả chi tiết, toàn diện về quá trình học tập, nghiên cứu và toàn bộ thành tựu của bạn, có độ dài không giới hạn và chi tiết hơn nhiều so với Résumé."
+        }
+    },
+    {
+        "Ques": "What is the voice technique that you can use to slow down your pace to make your sentences easier to understand and more effective?\nA. Pauses\nB. Intensifiers\nC. Phrases\nD. Articulates",
+        "Ans": {
+            "A": "Pauses",
+            "B": "Intensifiers",
+            "C": "Phrases",
+            "D": "Articulates"
+        },
+        "correct": "A",
+        "explanation": {
+            "question_vi": "Kỹ thuật giọng nói nào giúp bạn nói chậm lại để câu nói dễ hiểu và hiệu quả hơn?",
+            "answers_vi": {
+                "A": "Tạm dừng",
+                "B": "Từ nhấn mạnh",
+                "C": "Cụm từ",
+                "D": "Phát âm rõ"
+            },
+            "reason": "Việc sử dụng các khoảng dừng (pauses) giúp người nghe có thời gian tiếp nhận thông tin, đồng thời làm nổi bật các ý quan trọng và giúp người nói kiểm soát tốc độ trình bày."
+        }
+    },
+    {
+        "Ques": "Before giving your presentation, check all your visual aids this way:\nA. If a friend stands at the back of the room, can he/she see every detail on the screen?\nB. Is the color combination pleasing to look at?\nC. Are there too many words on the screen?\nD. All of the options",
+        "Ans": {
+            "A": "If a friend stands at the back of the room, can he/she see every detail on the screen?",
+            "B": "Is the color combination pleasing to look at?",
+            "C": "Are there too many words on the screen?",
+            "D": "All of the options"
+        },
+        "correct": "D",
+        "explanation": {
+            "question_vi": "Trước khi thuyết trình, bạn nên kiểm tra các phương tiện trực quan theo cách nào?",
+            "answers_vi": {
+                "A": "Nếu một người đứng ở cuối phòng, họ có nhìn rõ mọi chi tiết trên màn hình không?",
+                "B": "Sự kết hợp màu sắc có dễ nhìn không?",
+                "C": "Có quá nhiều chữ trên màn hình không?",
+                "D": "Tất cả các ý trên"
+            },
+            "reason": "Một slide tốt cần đảm bảo dễ đọc, màu sắc hài hòa và không chứa quá nhiều chữ. Vì vậy cần kiểm tra tất cả các yếu tố trên."
+        }
+    },
+    {
+        "Ques": "Which section of a scientific paper is dedicated to presenting the raw data, experimental results, and statistical analyses?\nA. Introduction\nB. Results\nC. Conclusion\nD. Discussion",
+        "Ans": {
+            "A": "Introduction",
+            "B": "Results",
+            "C": "Conclusion",
+            "D": "Discussion"
+        },
+        "correct": "B",
+        "explanation": {
+            "question_vi": "Phần nào của một bài báo khoa học dùng để trình bày dữ liệu gốc, kết quả thí nghiệm và các phân tích thống kê?",
+            "answers_vi": {
+                "A": "Giới thiệu",
+                "B": "Kết quả",
+                "C": "Kết luận",
+                "D": "Thảo luận"
+            },
+            "reason": "Phần Results trình bày các dữ liệu và kết quả thu được từ nghiên cứu. Việc giải thích ý nghĩa của kết quả sẽ được thực hiện ở phần Discussion."
+        }
+    },
+    {
+        "Ques": "Which of the following is/are true about \"coherence\"?\nA. Coherence means \"to hold together\"\nB. It relates to the smooth logical flow of ideas from one sentence to the next\nC. No sudden jumps, and each sentence should flow smoothly into the next one\nD. All options are correct",
+        "Ans": {
+            "A": "Coherence means \"to hold together\"",
+            "B": "It relates to the smooth logical flow of ideas from one sentence to the next",
+            "C": "No sudden jumps, and each sentence should flow smoothly into the next one",
+            "D": "All options are correct"
+        },
+        "correct": "D",
+        "explanation": {
+            "question_vi": "Phát biểu nào sau đây đúng về tính mạch lạc (coherence)?",
+            "answers_vi": {
+                "A": "Coherence có nghĩa là 'gắn kết với nhau'",
+                "B": "Nó liên quan đến sự chuyển ý logic và mượt mà từ câu này sang câu khác",
+                "C": "Không có sự chuyển ý đột ngột, mỗi câu phải liên kết tự nhiên với câu tiếp theo",
+                "D": "Tất cả các đáp án đều đúng"
+            },
+            "reason": "Coherence là tính mạch lạc của bài viết. Các ý phải được sắp xếp logic, liên kết tự nhiên và không gây đứt quãng khi đọc."
+        }
+    },
+    {
+        "Ques": "What is the purpose of revising sentences in terms of clarity in writing?\nA. To confuse the reader\nB. To express ideas more clearly and eliminate ambiguity\nC. To increase the word count\nD. To add redundancy",
+        "Ans": {
+            "A": "To confuse the reader",
+            "B": "To express ideas more clearly and eliminate ambiguity",
+            "C": "To increase the word count",
+            "D": "To add redundancy"
+        },
+        "correct": "B",
+        "explanation": {
+            "question_vi": "Mục đích của việc chỉnh sửa câu để tăng tính rõ ràng trong bài viết là gì?",
+            "answers_vi": {
+                "A": "Làm người đọc bối rối",
+                "B": "Diễn đạt ý tưởng rõ ràng hơn và loại bỏ sự mơ hồ",
+                "C": "Tăng số lượng từ",
+                "D": "Thêm sự lặp ý"
+            },
+            "reason": "Việc chỉnh sửa giúp câu văn rõ ràng, chính xác và dễ hiểu hơn, đồng thời loại bỏ những cách diễn đạt gây hiểu nhầm."
+        }
+    },
+    {
+        "Ques": "Which of the following gives the substance of the report?\nA. Abstract\nB. Summary\nC. Preface\nD. Table of contents",
+        "Ans": {
+            "A": "Abstract",
+            "B": "Summary",
+            "C": "Preface",
+            "D": "Table of contents"
+        },
+        "correct": "A",
+        "explanation": {
+            "question_vi": "Mục nào dưới đây trình bày nội dung cốt lõi của báo cáo?",
+            "answers_vi": {
+                "A": "Tóm tắt (Abstract)",
+                "B": "Bản tóm tắt (Summary)",
+                "C": "Lời nói đầu",
+                "D": "Mục lục"
+            },
+            "reason": "Abstract trình bày ngắn gọn mục đích, phương pháp, kết quả và kết luận của báo cáo, giúp người đọc nắm được nội dung chính. Preface chỉ là lời giới thiệu, Table of contents là mục lục, còn Summary thường là phần tổng kết ở cuối hoặc bản tóm tắt ít mang tính chuẩn học thuật hơn Abstract."
+        }
+    },
+    {
+        "Ques": "Where is the analysis and interpretation of the results typically found in the thesis structure?\nA. Introduction\nB. Conclusion\nC. Discussion\nD. Literature Review",
+        "Ans": {
+            "A": "Introduction",
+            "B": "Conclusion",
+            "C": "Discussion",
+            "D": "Literature Review"
+        },
+        "correct": "C",
+        "explanation": {
+            "question_vi": "Trong cấu trúc luận văn, phần phân tích và diễn giải kết quả thường nằm ở đâu?",
+            "answers_vi": {
+                "A": "Giới thiệu",
+                "B": "Kết luận",
+                "C": "Thảo luận",
+                "D": "Tổng quan tài liệu"
+            },
+            "reason": "Phần Discussion là nơi tác giả phân tích, giải thích và diễn giải ý nghĩa của các kết quả nghiên cứu. Introduction giới thiệu đề tài, Literature Review tổng hợp nghiên cứu trước đó, còn Conclusion chỉ tóm tắt các phát hiện."
+        }
+    },
+    {
+        "Ques": "Which of these statements best describes the purpose of transitional words?\nA. They create a clear connection between a reason and its supporting evidence\nB. They add more descriptive detail to the claim’s supporting evidence\nC. They clarify how the writer feels about the claim being made in the essay\nD. They identify the reasons being used to support the writer's claim",
+        "Ans": {
+            "A": "They create a clear connection between a reason and its supporting evidence",
+            "B": "They add more descriptive detail to the claim’s supporting evidence",
+            "C": "They clarify how the writer feels about the claim being made in the essay",
+            "D": "They identify the reasons being used to support the writer's claim"
+        },
+        "correct": "A",
+        "explanation": {
+            "question_vi": "Phát biểu nào mô tả đúng nhất mục đích của các từ chuyển tiếp (transitional words)?",
+            "answers_vi": {
+                "A": "Tạo sự liên kết rõ ràng giữa một lý do và bằng chứng hỗ trợ",
+                "B": "Bổ sung thêm chi tiết mô tả cho bằng chứng hỗ trợ luận điểm",
+                "C": "Làm rõ cảm xúc của người viết đối với luận điểm trong bài",
+                "D": "Xác định các lý do được dùng để hỗ trợ luận điểm của người viết"
+            },
+            "reason": "Transitional words (ví dụ: however, therefore, moreover, because...) có chức năng liên kết các ý tưởng và giúp mối quan hệ giữa lập luận với bằng chứng trở nên rõ ràng, mạch lạc."
+        }
+    },
+    {
+        "Ques": "Which is the cases below belonging to the business letter writing?\nA. Make requests\nB. Make complaints\nC. Make recommendations\nD. All of options",
+        "Ans": {
+            "A": "Make requests",
+            "B": "Make complaints",
+            "C": "Make recommendations",
+            "D": "All of options"
+        },
+        "correct": "D",
+        "explanation": {
+            "question_vi": "Trường hợp nào dưới đây thuộc phạm vi viết thư thương mại?",
+            "answers_vi": {
+                "A": "Đưa ra yêu cầu",
+                "B": "Khiếu nại",
+                "C": "Đưa ra khuyến nghị",
+                "D": "Tất cả các lựa chọn"
+            },
+            "reason": "Thư thương mại được sử dụng cho nhiều mục đích như yêu cầu, khiếu nại, đề xuất hoặc đưa ra khuyến nghị. Vì vậy tất cả các lựa chọn đều đúng."
+        }
+    },
+    {
+        "Ques": "In terms of content, which document typically includes a comprehensive academic and research history?\nA. Resume\nB. CV\nC. Both include the same academic details\nD. Neither includes academic information",
+        "Ans": {
+            "A": "Resume",
+            "B": "CV",
+            "C": "Both include the same academic details",
+            "D": "Neither includes academic information"
+        },
+        "correct": "B",
+        "explanation": {
+            "question_vi": "Xét về nội dung, tài liệu nào thường bao gồm đầy đủ quá trình học tập và nghiên cứu?",
+            "answers_vi": {
+                "A": "Sơ yếu nghề nghiệp (Resume)",
+                "B": "Lý lịch học thuật (CV)",
+                "C": "Cả hai đều có cùng thông tin học thuật",
+                "D": "Không tài liệu nào có thông tin học thuật"
+            },
+            "reason": "CV (Curriculum Vitae) trình bày chi tiết lịch sử học tập, nghiên cứu, công bố khoa học, giảng dạy và các thành tựu học thuật. Resume chỉ tóm tắt kinh nghiệm và kỹ năng phù hợp với vị trí ứng tuyển."
+        }
+    },
+    {
+        "Ques": "Which of the following is an example of a visual aid that can help to clarify complex information in a presentation?\nA. A list of bullet points\nB. A detailed paragraph of text\nC. An image or diagram\nD. A long video clip",
+        "Ans": {
+            "A": "A list of bullet points",
+            "B": "A detailed paragraph of text",
+            "C": "An image or diagram",
+            "D": "A long video clip"
+        },
+        "correct": "C",
+        "explanation": {
+            "question_vi": "Đâu là ví dụ về phương tiện trực quan có thể giúp làm rõ những thông tin phức tạp trong một bài thuyết trình?",
+            "answers_vi": {
+                "A": "Danh sách gạch đầu dòng",
+                "B": "Một đoạn văn dài, chi tiết",
+                "C": "Hình ảnh hoặc sơ đồ",
+                "D": "Một đoạn video dài"
+            },
+            "reason": "Hình ảnh và sơ đồ giúp người nghe trực quan hóa thông tin phức tạp, từ đó dễ hiểu và dễ ghi nhớ hơn so với văn bản dài."
+        }
+    },
+    {
+        "Ques": "In which section of a scientific paper do authors typically provide an overview of the background, motivation, and objectives of the research?\nA. Results\nB. Discussion\nC. Abstract\nD. Introduction",
+        "Ans": {
+            "A": "Results",
+            "B": "Discussion",
+            "C": "Abstract",
+            "D": "Introduction"
+        },
+        "correct": "D",
+        "explanation": {
+            "question_vi": "Trong phần nào của một bài báo khoa học, tác giả thường trình bày tổng quan về bối cảnh, động cơ và mục tiêu của nghiên cứu?",
+            "answers_vi": {
+                "A": "Kết quả",
+                "B": "Thảo luận",
+                "C": "Tóm tắt",
+                "D": "Giới thiệu"
+            },
+            "reason": "Phần Introduction giới thiệu bối cảnh nghiên cứu, lý do thực hiện và mục tiêu của công trình. Results trình bày kết quả, Discussion phân tích kết quả, còn Abstract chỉ tóm tắt toàn bộ bài báo."
+        }
+    },
+    {
+        "Ques": "To write a good report, you should do?\nA. Use the same word in several distinct sentences\nB. Avoid to use synonym to a keyword in the paragraph\nC. Rarely use the pronoun when referencing a previously used term\nD. All of the options",
+        "Ans": {
+            "A": "Use the same word in several distinct sentences",
+            "B": "Avoid to use synonym to a keyword in the paragraph",
+            "C": "Rarely use the pronoun when referencing a previously used term",
+            "D": "All of the options"
+        },
+        "correct": "D",
+        "explanation": {
+            "question_vi": "Để viết một báo cáo tốt, bạn nên làm gì?",
+            "answers_vi": {
+                "A": "Sử dụng cùng một từ trong nhiều câu khác nhau",
+                "B": "Tránh dùng từ đồng nghĩa thay cho từ khóa trong đoạn văn",
+                "C": "Ít sử dụng đại từ khi nhắc lại một thuật ngữ đã xuất hiện trước đó",
+                "D": "Tất cả các lựa chọn"
+            },
+            "reason": "Trong văn bản học thuật và báo cáo kỹ thuật, việc sử dụng nhất quán thuật ngữ, hạn chế thay bằng từ đồng nghĩa và tránh lạm dụng đại từ giúp giảm sự mơ hồ, tăng tính chính xác của nội dung."
+        }
+    },
+    {
+        "Ques": "Which answer is not a step in the writing process?\nA. Completing\nB. Revising\nC. Drafting\nD. Publishing",
+        "Ans": {
+            "A": "Completing",
+            "B": "Revising",
+            "C": "Drafting",
+            "D": "Publishing"
+        },
+        "correct": "A",
+        "explanation": {
+            "question_vi": "Đáp án nào dưới đây không phải là một bước trong quy trình viết?",
+            "answers_vi": {
+                "A": "Hoàn thành",
+                "B": "Chỉnh sửa",
+                "C": "Soạn bản nháp",
+                "D": "Xuất bản"
+            },
+            "reason": "Quy trình viết thông thường gồm các bước như lập kế hoạch, soạn bản nháp (drafting), chỉnh sửa (revising), biên tập và có thể là xuất bản (publishing). 'Completing' chỉ mô tả trạng thái đã hoàn thành chứ không phải một bước chính thức trong quy trình viết."
+        }
+    },
+    {
+        "Ques": "How can writers avoid plagiarism in their work?\nA. Copying verbatim from sources\nB. Properly citing sources\nC. Ignoring the need for citations\nD. Using anonymous data",
+        "Ans": {
+            "A": "Copying verbatim from sources",
+            "B": "Properly citing sources",
+            "C": "Ignoring the need for citations",
+            "D": "Using anonymous data"
+        },
+        "correct": "B",
+        "explanation": {
+            "question_vi": "Người viết có thể tránh đạo văn trong bài viết của mình bằng cách nào?",
+            "answers_vi": {
+                "A": "Sao chép nguyên văn từ nguồn",
+                "B": "Trích dẫn nguồn đúng cách",
+                "C": "Bỏ qua việc trích dẫn",
+                "D": "Sử dụng dữ liệu ẩn danh"
+            },
+            "reason": "Để tránh đạo văn, người viết phải ghi nhận đầy đủ nguồn gốc của ý tưởng, dữ liệu hoặc trích dẫn bằng cách trích dẫn theo đúng quy chuẩn học thuật."
+        }
+    },
+    {
+        "Ques": "Which of the following refers to the highness or lowness of voice?\nA. Pitch\nB. Stress\nC. Rhythm\nD. Intonation",
+        "Ans": {
+            "A": "Pitch",
+            "B": "Stress",
+            "C": "Rhythm",
+            "D": "Intonation"
+        },
+        "correct": "A",
+        "explanation": {
+            "question_vi": "Thuật ngữ nào dưới đây dùng để chỉ độ cao hoặc độ thấp của giọng nói?",
+            "answers_vi": {
+                "A": "Cao độ giọng nói",
+                "B": "Trọng âm",
+                "C": "Nhịp điệu",
+                "D": "Ngữ điệu"
+            },
+            "reason": "Pitch là cao độ của giọng nói (cao hay thấp). Stress là trọng âm, Rhythm là nhịp điệu của lời nói, còn Intonation là sự lên xuống của ngữ điệu trong câu."
+        }
+    },
+    {
+        "Ques": "… is a good font size for headers.\nA. 22pt\nB. 40pt\nC. 28pt\nD. 32pt",
+        "Ans": {
+            "A": "22pt",
+            "B": "40pt",
+            "C": "28pt",
+            "D": "32pt"
+        },
+        "correct": "B",
+        "explanation": {
+            "question_vi": "Cỡ chữ nào là phù hợp cho tiêu đề?",
+            "answers_vi": {
+                "A": "22pt",
+                "B": "40pt",
+                "C": "28pt",
+                "D": "32pt"
+            },
+            "reason": "Trong thiết kế slide thuyết trình, tiêu đề thường sử dụng cỡ chữ khoảng 36–44pt. Trong các lựa chọn, 40pt là phù hợp nhất."
+        }
+    },
+    {
+        "Ques": "What should be the primary focus of the \"Introduction\" section in a scientific paper?\nA. Presenting detailed experimental procedures\nB. Providing an overview of the paper's content and background\nC. Analyzing the data and results\nD. Listing the author's qualifications",
+        "Ans": {
+            "A": "Presenting detailed experimental procedures",
+            "B": "Providing an overview of the paper's content and background",
+            "C": "Analyzing the data and results",
+            "D": "Listing the author's qualifications"
+        },
+        "correct": "B",
+        "explanation": {
+            "question_vi": "Phần \"Introduction\" trong một bài báo khoa học chủ yếu tập trung vào điều gì?",
+            "answers_vi": {
+                "A": "Trình bày chi tiết quy trình thí nghiệm",
+                "B": "Cung cấp tổng quan về nội dung và bối cảnh của bài báo",
+                "C": "Phân tích dữ liệu và kết quả",
+                "D": "Liệt kê trình độ của tác giả"
+            },
+            "reason": "Introduction giới thiệu bối cảnh nghiên cứu, vấn đề nghiên cứu, động cơ và mục tiêu của bài báo. Quy trình thực nghiệm thuộc phần Methods, còn phân tích dữ liệu thuộc phần Results hoặc Discussion."
+        }
+    },
+    {
+        "Ques": "Coherence refers to all of the followings except?\nA. The connection between the thesis and the topic sentences of the body paragraphs in an essay\nB. The use of appropriate transitions from one paragraph to another\nC. The logical sequence that the ideas in an essay follow\nD. The sticking to one main idea throughout the essay",
+        "Ans": {
+            "A": "The connection between the thesis and the topic sentences of the body paragraphs in an essay",
+            "B": "The use of appropriate transitions from one paragraph to another",
+            "C": "The logical sequence that the ideas in an essay follow",
+            "D": "The sticking to one main idea throughout the essay"
+        },
+        "correct": "B",
+        "explanation": {
+            "question_vi": "Coherence (tính mạch lạc) bao gồm tất cả các đặc điểm sau, NGOẠI TRỪ?",
+            "answers_vi": {
+                "A": "Sự liên kết giữa luận điểm chính và các câu chủ đề của các đoạn thân bài",
+                "B": "Việc sử dụng các từ/cụm từ chuyển tiếp phù hợp giữa các đoạn",
+                "C": "Trình tự logic của các ý trong bài viết",
+                "D": "Bám sát một ý chính xuyên suốt bài viết"
+            },
+            "reason": "Coherence đề cập đến tính mạch lạc về mặt ý tưởng và tổ chức của văn bản. Việc sử dụng từ nối (transitions) là đặc trưng của cohesion (tính liên kết ngôn ngữ), không phải coherence, nên đáp án B là lựa chọn đúng."
+        }
+    },
+    {
+        "Ques": "Which of the following must be avoided in technical writing?\nA. Facts\nB. Grammar\nC. Punctuation\nD. Personal feelings",
+        "Ans": {
+            "A": "Facts",
+            "B": "Grammar",
+            "C": "Punctuation",
+            "D": "Personal feelings"
+        },
+        "correct": "D",
+        "explanation": {
+            "question_vi": "Điều nào dưới đây cần tránh trong văn bản kỹ thuật?",
+            "answers_vi": {
+                "A": "Sự kiện, dữ kiện",
+                "B": "Ngữ pháp",
+                "C": "Dấu câu",
+                "D": "Cảm xúc, ý kiến cá nhân"
+            },
+            "reason": "Văn bản kỹ thuật cần khách quan, dựa trên dữ liệu và sự thật. Ý kiến hoặc cảm xúc cá nhân cần được tránh để đảm bảo tính chính xác và trung lập."
+        }
+    },
+    {
+        "Ques": "These are the tips for paraphrasing, excluding:\nA. Start a different point from the original\nB. Use synonyms\nC. Change the sentence structure\nD. Copying the original text or changing only a few words",
+        "Ans": {
+            "A": "Start a different point from the original",
+            "B": "Use synonyms",
+            "C": "Change the sentence structure",
+            "D": "Copying the original text or changing only a few words"
+        },
+        "correct": "D",
+        "explanation": {
+            "question_vi": "Đâu là lựa chọn KHÔNG phải là mẹo diễn đạt lại (paraphrasing)?",
+            "answers_vi": {
+                "A": "Bắt đầu từ một điểm khác so với bản gốc",
+                "B": "Sử dụng từ đồng nghĩa",
+                "C": "Thay đổi cấu trúc câu",
+                "D": "Sao chép nguyên văn hoặc chỉ thay đổi vài từ"
+            },
+            "reason": "Paraphrasing yêu cầu diễn đạt lại ý tưởng bằng cách thay đổi cách diễn đạt và cấu trúc câu. Chỉ thay vài từ hoặc sao chép gần như nguyên văn vẫn bị xem là đạo văn."
+        }
+    },
+    {
+        "Ques": "Why is plagiarism considered an ethical violation?\nA. It encourages collaboration\nB. It promotes originality\nC. It violates trust and fairness\nD. It speeds up the writing process",
+        "Ans": {
+            "A": "It encourages collaboration",
+            "B": "It promotes originality",
+            "C": "It violates trust and fairness",
+            "D": "It speeds up the writing process"
+        },
+        "correct": "C",
+        "explanation": {
+            "question_vi": "Tại sao đạo văn được xem là một hành vi vi phạm đạo đức?",
+            "answers_vi": {
+                "A": "Vì nó khuyến khích sự hợp tác",
+                "B": "Vì nó thúc đẩy tính sáng tạo",
+                "C": "Vì nó vi phạm sự tin cậy và tính công bằng",
+                "D": "Vì nó giúp quá trình viết nhanh hơn"
+            },
+            "reason": "Đạo văn là hành vi sử dụng ý tưởng hoặc tác phẩm của người khác mà không ghi nguồn, làm mất tính trung thực học thuật và vi phạm các nguyên tắc về sự tin cậy và công bằng."
+        }
+    },
+    {
+        "Ques": "It is important to become an effective reader, by giving each paper neither more nor less time than it deserves. The first time you read a paper, what should you do?\nA. Read skim through it to identify the extent to which it is relevant\nB. Read to understand every line\nC. Read it thoroughly\nD. Read as textbook",
+        "Ans": {
+            "A": "Read skim through it to identify the extent to which it is relevant",
+            "B": "Read to understand every line",
+            "C": "Read it thoroughly",
+            "D": "Read as textbook"
+        },
+        "correct": "A",
+        "explanation": {
+            "question_vi": "Để trở thành một người đọc hiệu quả, bạn nên dành cho mỗi bài báo lượng thời gian phù hợp. Lần đầu tiên đọc một bài báo, bạn nên làm gì?",
+            "answers_vi": {
+                "A": "Đọc lướt để xác định mức độ liên quan của bài báo",
+                "B": "Đọc để hiểu từng dòng",
+                "C": "Đọc thật kỹ toàn bộ",
+                "D": "Đọc như đọc sách giáo khoa"
+            },
+            "reason": "Ở lần đọc đầu tiên, mục tiêu là đánh giá nhanh nội dung và mức độ liên quan của bài báo. Việc đọc kỹ từng dòng nên được thực hiện ở các lần đọc sau nếu bài báo thực sự hữu ích."
+        }
+    },
+    {
+        "Ques": "How does the overwhelming number of existing publications impact the research process?\nA. It limits the scope of available research\nB. It encourages exploration of prior work\nC. It discourages researchers from engaging in literature review\nD. It highlights the isolation of research projects",
+        "Ans": {
+            "A": "It limits the scope of available research",
+            "B": "It encourages exploration of prior work",
+            "C": "It discourages researchers from engaging in literature review",
+            "D": "It highlights the isolation of research projects"
+        },
+        "correct": "B",
+        "explanation": {
+            "question_vi": "Số lượng rất lớn các công bố nghiên cứu hiện có ảnh hưởng đến quá trình nghiên cứu như thế nào?",
+            "answers_vi": {
+                "A": "Làm hạn chế phạm vi nghiên cứu sẵn có",
+                "B": "Khuyến khích việc tìm hiểu các nghiên cứu trước đây",
+                "C": "Làm các nhà nghiên cứu ngại thực hiện tổng quan tài liệu",
+                "D": "Làm nổi bật tính tách biệt của các dự án nghiên cứu"
+            },
+            "reason": "Số lượng lớn các công trình nghiên cứu tạo điều kiện để người nghiên cứu tham khảo, kế thừa và xác định khoảng trống nghiên cứu thông qua việc khám phá các nghiên cứu trước đó."
+        }
+    },
+    {
+        "Ques": "Critical reading is a more active way of reading. Critical reading is a process of:\nA. Analyzing, interpreting and evaluating\nB. Analyzing\nC. Interpreting\nD. Evaluating",
+        "Ans": {
+            "A": "Analyzing, interpreting and evaluating",
+            "B": "Analyzing",
+            "C": "Interpreting",
+            "D": "Evaluating"
+        },
+        "correct": "A",
+        "explanation": {
+            "question_vi": "Đọc phản biện (Critical reading) là một cách đọc chủ động hơn. Đọc phản biện là quá trình:",
+            "answers_vi": {
+                "A": "Phân tích, diễn giải và đánh giá",
+                "B": "Phân tích",
+                "C": "Diễn giải",
+                "D": "Đánh giá"
+            },
+            "reason": "Đọc phản biện bao gồm ba hoạt động chính: phân tích (analyzing), diễn giải (interpreting) và đánh giá (evaluating), giúp người đọc hiểu sâu và đánh giá chất lượng của tài liệu."
+        }
+    },
+    {
+        "Ques": "How should papers be grouped during the rough stage of a Literature Review?\nA. Alphabetically\nB. By the author's name\nC. By topic and contribution\nD. Randomly",
+        "Ans": {
+            "A": "Alphabetically",
+            "B": "By the author's name",
+            "C": "By topic and contribution",
+            "D": "Randomly"
+        },
+        "correct": "C",
+        "explanation": {
+            "question_vi": "Trong giai đoạn phác thảo (rough stage) của phần Tổng quan tài liệu (Literature Review), các bài báo nên được nhóm như thế nào?",
+            "answers_vi": {
+                "A": "Theo thứ tự bảng chữ cái",
+                "B": "Theo tên tác giả",
+                "C": "Theo chủ đề và đóng góp",
+                "D": "Ngẫu nhiên"
+            },
+            "reason": "Khi xây dựng Literature Review, các tài liệu nên được nhóm theo chủ đề nghiên cứu và những đóng góp của chúng để giúp việc tổng hợp và so sánh các công trình trở nên logic và mạch lạc."
+        }
+    },
+    {
+        "Ques": "Good scientific writing can be described as …, …, and …\nA. Clear, concise, and convoluted\nB. Concise, dense, and compelling\nC. Clear, concise, and flowery\nD. Clear, concise, and compelling",
+        "Ans": {
+            "A": "Clear, concise, and convoluted",
+            "B": "Concise, dense, and compelling",
+            "C": "Clear, concise, and flowery",
+            "D": "Clear, concise, and compelling"
+        },
+        "correct": "D",
+        "explanation": {
+            "question_vi": "Viết khoa học tốt có thể được mô tả bằng ba đặc điểm nào sau đây?",
+            "answers_vi": {
+                "A": "Rõ ràng, ngắn gọn và rối rắm",
+                "B": "Ngắn gọn, dày đặc và thuyết phục",
+                "C": "Rõ ràng, ngắn gọn và hoa mỹ",
+                "D": "Rõ ràng, ngắn gọn và thuyết phục"
+            },
+            "reason": "Một bài viết khoa học tốt cần rõ ràng (clear), ngắn gọn (concise) và có sức thuyết phục (compelling). Văn phong rối rắm hoặc quá hoa mỹ không phù hợp với mục tiêu truyền đạt thông tin khoa học."
+        }
+    },
+    {
+        "Ques": "What are the three most essential ingredients of a presentation?\nA. The audience, the presenter, the presentation itself\nB. The topic, the body language, and the Voice\nC. The audience, the listener, and the presenter\nD. The introduction, the body, and the presenter",
+        "Ans": {
+            "A": "The audience, the presenter, the presentation itself",
+            "B": "The topic, the body language, and the Voice",
+            "C": "The audience, the listener, and the presenter",
+            "D": "The introduction, the body, and the presenter"
+        },
+        "correct": "A",
+        "explanation": {
+            "question_vi": "Ba thành phần quan trọng nhất của một bài thuyết trình là gì?",
+            "answers_vi": {
+                "A": "Khán giả, người thuyết trình và bản thân bài thuyết trình",
+                "B": "Chủ đề, ngôn ngữ cơ thể và giọng nói",
+                "C": "Khán giả, người nghe và người thuyết trình",
+                "D": "Phần mở đầu, phần thân bài và người thuyết trình"
+            },
+            "reason": "Ba yếu tố cốt lõi của một bài thuyết trình là người thuyết trình (presenter), khán giả (audience) và nội dung bài thuyết trình (presentation)."
+        }
+    },
+    {
+        "Ques": "Signpost is a very brief statement that indicates where a speaker is in the speech or that focuses attention on key ideas. Which signpost should you use when you want to give a wider perspective?\nA. To turn to\nB. To expand on\nC. To digress\nD. To elaborate on",
+        "Ans": {
+            "A": "To turn to",
+            "B": "To expand on",
+            "C": "To digress",
+            "D": "To elaborate on"
+        },
+        "correct": "D",
+        "explanation": {
+            "question_vi": "Signpost là một câu ngắn giúp chỉ ra người nói đang ở phần nào của bài phát biểu hoặc thu hút sự chú ý đến ý chính. Khi muốn trình bày hoặc mở rộng một ý để người nghe có cái nhìn đầy đủ hơn, nên dùng signpost nào?",
+            "answers_vi": {
+                "A": "Chuyển sang",
+                "B": "Mở rộng thêm",
+                "C": "Đi chệch chủ đề",
+                "D": "Giải thích, trình bày chi tiết hơn"
+            },
+            "reason": "Trong các signpost của thuyết trình, 'to elaborate on' là cách diễn đạt chuẩn khi người nói muốn phát triển hoặc giải thích thêm một ý tưởng. 'To expand on' cũng gần nghĩa nhưng thường được dùng ít chính thức hơn; trong các giáo trình Presentation Skills, đáp án chuẩn thường là 'To elaborate on'."
+        }
+    },
+    {
+        "Ques": "What is the true statement about verbal and non-verbal communication?\nA. Non-verbal cues can convey our feelings, attitudes, and actions to other people more effectively than speaking\nB. Verbal communication is not using speech or spoken word for exchanging information, emotions, and thoughts\nC. Non-verbal communication is conveying and exchanging messages with the use of spoken words\nD. All above statements are correct",
+        "Ans": {
+            "A": "Non-verbal cues can convey our feelings, attitudes, and actions to other people more effectively than speaking",
+            "B": "Verbal communication is not using speech or spoken word for exchanging information, emotions, and thoughts",
+            "C": "Non-verbal communication is conveying and exchanging messages with the use of spoken words",
+            "D": "All above statements are correct"
+        },
+        "correct": "A",
+        "explanation": {
+            "question_vi": "Phát biểu nào dưới đây là đúng về giao tiếp bằng lời nói và giao tiếp phi ngôn ngữ?",
+            "answers_vi": {
+                "A": "Các tín hiệu phi ngôn ngữ có thể truyền tải cảm xúc, thái độ và hành động đến người khác hiệu quả hơn lời nói.",
+                "B": "Giao tiếp bằng lời nói là không sử dụng lời nói hoặc ngôn ngữ nói để trao đổi thông tin, cảm xúc và suy nghĩ.",
+                "C": "Giao tiếp phi ngôn ngữ là việc truyền đạt thông điệp bằng lời nói.",
+                "D": "Tất cả các phát biểu trên đều đúng."
+            },
+            "reason": "Giao tiếp phi ngôn ngữ (ánh mắt, cử chỉ, nét mặt, tư thế...) thường truyền tải cảm xúc và thái độ rất hiệu quả. Đáp án B và C đảo ngược khái niệm verbal và non-verbal nên sai, vì vậy D cũng sai."
+        }
+    },
+    {
+        "Ques": "Which kinds of communication does the activity “punching other people” represent?\nA. Verbal communication\nB. Intentional nonverbal communication\nC. Unintentional nonverbal communication\nD. All of statements are not correct",
+        "Ans": {
+            "A": "Verbal communication",
+            "B": "Intentional nonverbal communication",
+            "C": "Unintentional nonverbal communication",
+            "D": "All of statements are not correct"
+        },
+        "correct": "B",
+        "explanation": {
+            "question_vi": "Hành động \"đấm người khác\" thuộc loại hình giao tiếp nào?",
+            "answers_vi": {
+                "A": "Giao tiếp bằng lời nói",
+                "B": "Giao tiếp phi ngôn ngữ có chủ đích",
+                "C": "Giao tiếp phi ngôn ngữ không chủ đích",
+                "D": "Không có đáp án nào đúng"
+            },
+            "reason": "Đấm người khác là một hành động phi ngôn ngữ được thực hiện có chủ ý nhằm truyền tải thông điệp (đe dọa, tức giận, tấn công...), do đó thuộc giao tiếp phi ngôn ngữ có chủ đích."
+        }
+    },
+    {
+        "Ques": "Which of the following nonverbal cues can convey confidence in a presentation?\nA. Avoiding eye contact\nB. Fidgeting\nC. Standing with good posture\nD. Speaking softly",
+        "Ans": {
+            "A": "Avoiding eye contact",
+            "B": "Fidgeting",
+            "C": "Standing with good posture",
+            "D": "Speaking softly"
+        },
+        "correct": "C",
+        "explanation": {
+            "question_vi": "Dấu hiệu phi ngôn ngữ nào dưới đây có thể thể hiện sự tự tin khi thuyết trình?",
+            "answers_vi": {
+                "A": "Tránh giao tiếp bằng mắt",
+                "B": "Cử động bồn chồn, thiếu tự nhiên",
+                "C": "Đứng với tư thế đúng và vững vàng",
+                "D": "Nói rất nhỏ"
+            },
+            "reason": "Một tư thế đứng thẳng, cân bằng và tự nhiên giúp người thuyết trình tạo ấn tượng tự tin và chuyên nghiệp. Tránh giao tiếp bằng mắt, bồn chồn hoặc nói quá nhỏ thường làm giảm sự tự tin."
+        }
+    },
+    {
+        "Ques": "If you cross your arms while standing, you indicate that you may be:\nA. Closed off and defensive\nB. Positive and open-minded\nC. Optimistic and confident\nD. Courageous and calm",
+        "Ans": {
+            "A": "Closed off and defensive",
+            "B": "Positive and open-minded",
+            "C": "Optimistic and confident",
+            "D": "Courageous and calm"
+        },
+        "correct": "A",
+        "explanation": {
+            "question_vi": "Nếu bạn đứng khoanh tay trước ngực, điều đó thường cho thấy bạn có thể đang ở trạng thái nào?",
+            "answers_vi": {
+                "A": "Khép kín và có xu hướng phòng thủ",
+                "B": "Tích cực và cởi mở",
+                "C": "Lạc quan và tự tin",
+                "D": "Can đảm và bình tĩnh"
+            },
+            "reason": "Trong giao tiếp phi ngôn ngữ, tư thế khoanh tay thường được diễn giải là biểu hiện của sự phòng thủ, khép kín hoặc không sẵn sàng tiếp nhận người khác, mặc dù trong một số ngữ cảnh cụ thể nó có thể chỉ đơn giản là tư thế đứng thoải mái."
+        }
+    },
+    {
+        "Ques": "Signpost is a very brief statement that indicates where a speaker is in the speech or that focuses attention on key ideas. Which signpost should you use when you want to do a deeper analysis?\nA. To turn to\nB. To expand on\nC. To digress\nD. To elaborate on",
+        "Ans": {
+            "A": "To turn to",
+            "B": "To expand on",
+            "C": "To digress",
+            "D": "To elaborate on"
+        },
+        "correct": "D",
+        "explanation": {
+            "question_vi": "Signpost là một câu ngắn giúp chỉ ra người nói đang ở phần nào của bài phát biểu hoặc nhấn mạnh ý chính. Khi muốn phân tích sâu hơn một vấn đề, bạn nên dùng signpost nào?",
+            "answers_vi": {
+                "A": "Chuyển sang",
+                "B": "Mở rộng thêm",
+                "C": "Đi chệch chủ đề",
+                "D": "Phân tích/giải thích chi tiết hơn"
+            },
+            "reason": "Cụm 'To elaborate on' được dùng khi người nói muốn giải thích hoặc phân tích sâu hơn một ý tưởng đã đề cập. 'To expand on' mang nghĩa mở rộng nội dung, nhưng 'elaborate on' phù hợp hơn với yêu cầu 'do a deeper analysis'. 'To turn to' dùng để chuyển chủ đề, còn 'To digress' là đi chệch khỏi chủ đề."
+        }
+    },
+    {
+        "Ques": "To cope with fast heartbeat, you are advised NOT to:\nA. Check the equipment slowly when all the audience has already settled down\nB. Walk deliberately slowly\nC. Make gesture deliberately slowly\nD. Breathe deliberately slowly",
+        "Ans": {
+            "A": "Check the equipment slowly when all the audience has already settled down",
+            "B": "Walk deliberately slowly",
+            "C": "Make gesture deliberately slowly",
+            "D": "Breathe deliberately slowly"
+        },
+        "correct": "A",
+        "explanation": {
+            "question_vi": "Để đối phó với tình trạng tim đập nhanh trước khi thuyết trình, bạn được khuyên KHÔNG nên làm gì?",
+            "answers_vi": {
+                "A": "Kiểm tra thiết bị một cách chậm rãi khi toàn bộ khán giả đã ổn định chỗ ngồi",
+                "B": "Đi lại một cách chậm rãi, có chủ ý",
+                "C": "Thực hiện cử chỉ một cách chậm rãi, có chủ ý",
+                "D": "Hít thở chậm và có chủ ý"
+            },
+            "reason": "Đi chậm, cử chỉ chậm và hít thở sâu đều là những kỹ thuật giúp giảm căng thẳng và ổn định nhịp tim. Ngược lại, việc đợi đến khi khán giả đã ngồi đầy đủ rồi mới bắt đầu kiểm tra thiết bị có thể làm tăng áp lực và tạo cảm giác thiếu chuẩn bị."
+        }
+    },
+    {
+        "Ques": "Which of the following nonverbal cues can convey enthusiasm and engagement during a presentation?\nA. Monotone voice\nB. Lack of facial expressions\nC. Hand gestures and movement\nD. Slouching or leaning on a podium",
+        "Ans": {
+            "A": "Monotone voice",
+            "B": "Lack of facial expressions",
+            "C": "Hand gestures and movement",
+            "D": "Slouching or leaning on a podium"
+        },
+        "correct": "C",
+        "explanation": {
+            "question_vi": "Dấu hiệu phi ngôn ngữ nào dưới đây có thể truyền tải sự nhiệt tình và gắn kết trong khi thuyết trình?",
+            "answers_vi": {
+                "A": "Giọng nói đều đều, đơn điệu",
+                "B": "Thiếu biểu cảm khuôn mặt",
+                "C": "Cử chỉ tay và sự di chuyển",
+                "D": "Khom người hoặc tựa vào bục phát biểu"
+            },
+            "reason": "Việc sử dụng cử chỉ tay tự nhiên kết hợp với sự di chuyển hợp lý giúp bài thuyết trình sinh động, thể hiện sự nhiệt tình và tăng mức độ tương tác với khán giả. Các lựa chọn còn lại đều thể hiện sự thiếu năng lượng hoặc thiếu tự tin."
+        }
+    },
+    {
+        "Ques": "The first stage of your preparation for a formal presentation is to find out as much as you can about the audience and what will be expected of you. These are the questions that you should ask yourself, except:\nA. Who will be in the audience and approximately how many will be there?\nB. How long will I have to speak for?\nC. Am I expected to use visual aids?\nD. What are the questions that might be asked by the audience.",
+        "Ans": {
+            "A": "Who will be in the audience and approximately how many will be there?",
+            "B": "How long will I have to speak for?",
+            "C": "Am I expected to use visual aids?",
+            "D": "What are the questions that might be asked by the audience."
+        },
+        "correct": "D",
+        "explanation": {
+            "question_vi": "Giai đoạn đầu tiên khi chuẩn bị cho một bài thuyết trình trang trọng là tìm hiểu càng nhiều càng tốt về khán giả và những gì được mong đợi ở bạn. Câu hỏi nào dưới đây là NGOẠI TRỪ?",
+            "answers_vi": {
+                "A": "Khán giả sẽ gồm những ai và có khoảng bao nhiêu người?",
+                "B": "Tôi sẽ có bao nhiêu thời gian để trình bày?",
+                "C": "Tôi có được yêu cầu sử dụng phương tiện trực quan không?",
+                "D": "Khán giả có thể sẽ đặt những câu hỏi nào?"
+            },
+            "reason": "Ở giai đoạn chuẩn bị ban đầu, người thuyết trình cần xác định đối tượng nghe, thời lượng và yêu cầu về hình thức trình bày. Việc dự đoán câu hỏi của khán giả thường được thực hiện ở giai đoạn chuẩn bị nội dung chi tiết, không phải thông tin cơ bản cần thu thập đầu tiên."
+        }
+    },
+    {
+        "Ques": "Which of the following nonverbal cues can convey nervousness or discomfort during a presentation?\nA. Maintaining good eye contact with the audience\nB. Avoiding eye contact with the audience\nC. Using appropriate hand gestures\nD. Smiling often and maintaining a positive facial expression",
+        "Ans": {
+            "A": "Maintaining good eye contact with the audience",
+            "B": "Avoiding eye contact with the audience",
+            "C": "Using appropriate hand gestures",
+            "D": "Smiling often and maintaining a positive facial expression"
+        },
+        "correct": "B",
+        "explanation": {
+            "question_vi": "Dấu hiệu phi ngôn ngữ nào dưới đây có thể thể hiện sự lo lắng hoặc không thoải mái trong khi thuyết trình?",
+            "answers_vi": {
+                "A": "Duy trì giao tiếp bằng mắt tốt với khán giả",
+                "B": "Tránh giao tiếp bằng mắt với khán giả",
+                "C": "Sử dụng cử chỉ tay phù hợp",
+                "D": "Thường xuyên mỉm cười và giữ nét mặt tích cực"
+            },
+            "reason": "Việc tránh giao tiếp bằng mắt thường là dấu hiệu của sự căng thẳng, thiếu tự tin hoặc không thoải mái. Trong khi đó, giao tiếp bằng mắt, cử chỉ phù hợp và nét mặt tích cực đều giúp tạo cảm giác tự tin và thu hút người nghe."
+        }
+    },
+    {
+        "Ques": "What should we do with the feet when making a presentation?\nA. Stand with your feet slightly apart\nB. Stand with your feet tightly together\nC. Stand with your feet twisted round each other\nD. Stand with your foot tapping on the floor",
+        "Ans": {
+            "A": "Stand with your feet slightly apart",
+            "B": "Stand with your feet tightly together",
+            "C": "Stand with your feet twisted round each other",
+            "D": "Stand with your foot tapping on the floor"
+        },
+        "correct": "A",
+        "explanation": {
+            "question_vi": "Khi thuyết trình, bạn nên đặt chân như thế nào?",
+            "answers_vi": {
+                "A": "Đứng với hai chân mở nhẹ",
+                "B": "Đứng với hai chân khép sát",
+                "C": "Đứng với hai chân bắt chéo hoặc xoắn vào nhau",
+                "D": "Đứng và liên tục gõ chân xuống sàn"
+            },
+            "reason": "Đứng với hai chân mở nhẹ bằng vai giúp giữ thăng bằng, tạo tư thế vững vàng và thể hiện sự tự tin. Khép chân, bắt chéo chân hoặc gõ chân liên tục đều làm giảm tính chuyên nghiệp và có thể khiến khán giả cảm nhận sự căng thẳng."
+        }
+    }
+]
